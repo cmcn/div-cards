@@ -1,0 +1,5499 @@
+[
+  {
+    "name": "A Dab of Ink",
+    "url": "https://pathofexile.gamepedia.com/A_Dab_of_Ink",
+    "stack_size": 9,
+    "effect": "The Poet's Pen",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Poet%27s_Pen",
+    "locations": [
+      {
+        "location": "The Library",
+        "location_url": "https://pathofexile.gamepedia.com/The_Library"
+      },
+      {
+        "location": "Museum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Museum_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "A Mother's Parting Gift",
+    "url": "https://pathofexile.gamepedia.com/A_Mother%27s_Parting_Gift",
+    "stack_size": 6,
+    "effect": "Fertile Mind",
+    "effect_url": "https://pathofexile.gamepedia.com/Fertile_Mind",
+    "locations": [
+      {
+        "location": "The Imperial Gardens",
+        "location_url": "https://pathofexile.gamepedia.com/The_Imperial_Gardens"
+      },
+      {
+        "location": "The High Gardens",
+        "location_url": "https://pathofexile.gamepedia.com/The_High_Gardens"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Abandoned Wealth",
+    "url": "https://pathofexile.gamepedia.com/Abandoned_Wealth",
+    "stack_size": 5,
+    "effect": "3x Exalted Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Exalted_Orb",
+    "locations": [
+      {
+        "location": "Arsenal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arsenal_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Precinct Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Precinct_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mao Kun (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mao_Kun_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Anarchy's Price",
+    "url": "https://pathofexile.gamepedia.com/Anarchy%27s_Price",
+    "stack_size": 13,
+    "effect": "Voltaxic RiftCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Voltaxic_Rift",
+    "locations": [],
+    "drop_restrictions": "Can drop from Rogue Exiles."
+  },
+  {
+    "name": "Assassin's Favour",
+    "url": "https://pathofexile.gamepedia.com/Assassin%27s_Favour",
+    "stack_size": 9,
+    "effect": "Dagger",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Marketplace",
+        "location_url": "https://pathofexile.gamepedia.com/The_Marketplace"
+      },
+      {
+        "location": "The Quay",
+        "location_url": "https://pathofexile.gamepedia.com/The_Quay"
+      },
+      {
+        "location": "Alleyways Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Alleyways_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Arcade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arcade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Bazaar Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bazaar_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Park Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Park_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Atziri's Arsenal",
+    "url": "https://pathofexile.gamepedia.com/Atziri%27s_Arsenal",
+    "stack_size": 4,
+    "effect": "WeaponCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Vaults of Atziri (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaults_of_Atziri_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Audacity",
+    "url": "https://pathofexile.gamepedia.com/Audacity",
+    "stack_size": 5,
+    "effect": "Doryani's FistCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Doryani%27s_Fist",
+    "locations": [
+      {
+        "location": "The Apex of Sacrifice",
+        "location_url": "https://pathofexile.gamepedia.com/The_Apex_of_Sacrifice"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Beauty Through Death",
+    "url": "https://pathofexile.gamepedia.com/Beauty_Through_Death",
+    "stack_size": 5,
+    "effect": "Queen's Sacrifice",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Vaal Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Birth of the Three",
+    "url": "https://pathofexile.gamepedia.com/Birth_of_the_Three",
+    "stack_size": 3,
+    "effect": "The Goddess Bound",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Goddess_Bound",
+    "locations": [
+      {
+        "location": "The Twilight Strand (Act 1)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Twilight_Strand_(Act_1)"
+      }
+    ],
+    "drop_restrictions": "Hillock"
+  },
+  {
+    "name": "Blessing of God",
+    "url": "https://pathofexile.gamepedia.com/Blessing_of_God",
+    "stack_size": 3,
+    "effect": "Elreon's JewelleryItem Level: 85",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Can drop from monsters in Elreon missions."
+  },
+  {
+    "name": "Blind Venture",
+    "url": "https://pathofexile.gamepedia.com/Blind_Venture",
+    "stack_size": 7,
+    "effect": "RingCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Reliquary (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Reliquary_(Act_5)"
+      },
+      {
+        "location": "The Reliquary (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Reliquary_(Act_10)"
+      },
+      {
+        "location": "Museum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Museum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Relic Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Relic_Chambers_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Boon of the First Ones",
+    "url": "https://pathofexile.gamepedia.com/Boon_of_the_First_Ones",
+    "stack_size": 6,
+    "effect": "Bestiary Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Pit of the Chimera Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pit_of_the_Chimera_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Boundless Realms",
+    "url": "https://pathofexile.gamepedia.com/Boundless_Realms",
+    "stack_size": 4,
+    "effect": "Map",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Solaris Temple Level 2 (Act 8)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Solaris_Temple_Level_2_(Act_8)"
+      },
+      {
+        "location": "Ivory Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ivory_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Bowyer's Dream",
+    "url": "https://pathofexile.gamepedia.com/Bowyer%27s_Dream",
+    "stack_size": 6,
+    "effect": "Six-Link Harbinger BowItem Level: 91",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Lord of the Ashen Arrow"
+  },
+  {
+    "name": "Call to the First Ones",
+    "url": "https://pathofexile.gamepedia.com/Call_to_the_First_Ones",
+    "stack_size": 5,
+    "effect": "Tier 1 TalismanCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Infested Valley Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Infested_Valley_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Cartographer's Delight",
+    "url": "https://pathofexile.gamepedia.com/Cartographer%27s_Delight",
+    "stack_size": 3,
+    "effect": "MapMap Tier: 5",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Harbour Bridge",
+        "location_url": "https://pathofexile.gamepedia.com/The_Harbour_Bridge"
+      },
+      {
+        "location": "The Foothills",
+        "location_url": "https://pathofexile.gamepedia.com/The_Foothills"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Chaotic Disposition",
+    "url": "https://pathofexile.gamepedia.com/Chaotic_Disposition",
+    "stack_size": 1,
+    "effect": "5x Chaos Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Chaos_Orb",
+    "locations": [
+      {
+        "location": "Poorjoy's Asylum (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Poorjoy%27s_Asylum_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Coveted Possession",
+    "url": "https://pathofexile.gamepedia.com/Coveted_Possession",
+    "stack_size": 9,
+    "effect": "5x Regal Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Regal_Orb",
+    "locations": [
+      {
+        "location": "The Catacombs",
+        "location_url": "https://pathofexile.gamepedia.com/The_Catacombs"
+      },
+      {
+        "location": "The Ossuary (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ossuary_(Act_5)"
+      },
+      {
+        "location": "The Ossuary (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ossuary_(Act_10)"
+      },
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Death",
+    "url": "https://pathofexile.gamepedia.com/Death",
+    "stack_size": 4,
+    "effect": "Mon'tregul's Grasp",
+    "effect_url": "https://pathofexile.gamepedia.com/Mon%27tregul%27s_Grasp",
+    "locations": [
+      {
+        "location": "The Karui Fortress",
+        "location_url": "https://pathofexile.gamepedia.com/The_Karui_Fortress"
+      },
+      {
+        "location": "Bog Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bog_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Flooded Mine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Flooded_Mine_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Marshes Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Marshes_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mud Geyser Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mud_Geyser_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Destined to Crumble",
+    "url": "https://pathofexile.gamepedia.com/Destined_to_Crumble",
+    "stack_size": 5,
+    "effect": "Body ArmourItem Level: 100",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Academy Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Academy_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Museum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Museum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Scriptorium Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Scriptorium_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Dialla's Subjugation",
+    "url": "https://pathofexile.gamepedia.com/Dialla%27s_Subjugation",
+    "stack_size": 7,
+    "effect": "Superior Support GemQuality: +23%Corrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Ivory Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ivory_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Doedre's Madness",
+    "url": "https://pathofexile.gamepedia.com/Doedre%27s_Madness",
+    "stack_size": 9,
+    "effect": "Doedre Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Harvest (area)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Harvest_(area)"
+      },
+      {
+        "location": "Doedre's Cesspool",
+        "location_url": "https://pathofexile.gamepedia.com/Doedre%27s_Cesspool"
+      }
+    ],
+    "drop_restrictions": "Doedre or corresponding bosses"
+  },
+  {
+    "name": "Earth Drinker",
+    "url": "https://pathofexile.gamepedia.com/Earth_Drinker",
+    "stack_size": 5,
+    "effect": "Granite Flask",
+    "effect_url": "https://pathofexile.gamepedia.com/Granite_Flask",
+    "locations": [
+      {
+        "location": "The Vastiri Desert",
+        "location_url": "https://pathofexile.gamepedia.com/The_Vastiri_Desert"
+      },
+      {
+        "location": "The Oasis",
+        "location_url": "https://pathofexile.gamepedia.com/The_Oasis"
+      },
+      {
+        "location": "The Foothills",
+        "location_url": "https://pathofexile.gamepedia.com/The_Foothills"
+      },
+      {
+        "location": "Desert Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Desert_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dunes Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dunes_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Emperor of Purity",
+    "url": "https://pathofexile.gamepedia.com/Emperor_of_Purity",
+    "stack_size": 7,
+    "effect": "Six-Link Holy ChainmailItem Level: 60",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Western Forest (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Western_Forest_(Act_6)"
+      },
+      {
+        "location": "The Chamber of Sins Level 1 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_1_(Act_7)"
+      },
+      {
+        "location": "The Chamber of Sins Level 2 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_2_(Act_7)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Springs Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Springs_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Emperor's Luck",
+    "url": "https://pathofexile.gamepedia.com/Emperor%27s_Luck",
+    "stack_size": 5,
+    "effect": "5x Currency",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Imperial Gardens",
+        "location_url": "https://pathofexile.gamepedia.com/The_Imperial_Gardens"
+      },
+      {
+        "location": "The High Gardens",
+        "location_url": "https://pathofexile.gamepedia.com/The_High_Gardens"
+      },
+      {
+        "location": "Courtyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courtyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Orchard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Orchard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Terrace Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Terrace_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Forbidden Power",
+    "url": "https://pathofexile.gamepedia.com/Forbidden_Power",
+    "stack_size": 4,
+    "effect": "BalefireCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Balefire",
+    "locations": [
+      {
+        "location": "The Solaris Temple Level 2 (Act 8)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Solaris_Temple_Level_2_(Act_8)"
+      },
+      {
+        "location": "The Harbour Bridge",
+        "location_url": "https://pathofexile.gamepedia.com/The_Harbour_Bridge"
+      },
+      {
+        "location": "Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Dawn, Harbinger of Solaris, Solaris, Eternal Sun, Jorus, Sky's Edge"
+  },
+  {
+    "name": "Gemcutter's Promise",
+    "url": "https://pathofexile.gamepedia.com/Gemcutter%27s_Promise",
+    "stack_size": 3,
+    "effect": "Superior GemQuality: +20%",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Ebony Barracks",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ebony_Barracks"
+      },
+      {
+        "location": "The Lunaris Concourse",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lunaris_Concourse"
+      },
+      {
+        "location": "Colonnade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colonnade_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Gift of the Gemling Queen",
+    "url": "https://pathofexile.gamepedia.com/Gift_of_the_Gemling_Queen",
+    "stack_size": 9,
+    "effect": "Level 20 Support Gem",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Tunnel",
+        "location_url": "https://pathofexile.gamepedia.com/The_Tunnel"
+      },
+      {
+        "location": "The Quarry",
+        "location_url": "https://pathofexile.gamepedia.com/The_Quarry"
+      },
+      {
+        "location": "Crystal Ore Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Crystal_Ore_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dig Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dig_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Excavation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Excavation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Geode Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Geode_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Glimmer of Hope",
+    "url": "https://pathofexile.gamepedia.com/Glimmer_of_Hope",
+    "stack_size": 8,
+    "effect": "Gold Ring",
+    "effect_url": "https://pathofexile.gamepedia.com/Gold_Ring",
+    "locations": [
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Grave Knowledge",
+    "url": "https://pathofexile.gamepedia.com/Grave_Knowledge",
+    "stack_size": 6,
+    "effect": "Summon Raging SpiritQuality: +20%",
+    "effect_url": "https://pathofexile.gamepedia.com/Summon_Raging_Spirit",
+    "locations": [
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Olmec's Sanctum",
+        "location_url": "https://pathofexile.gamepedia.com/Olmec%27s_Sanctum"
+      },
+      {
+        "location": "Cursed Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cursed_Crypt_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Harmony of Souls",
+    "url": "https://pathofexile.gamepedia.com/Harmony_of_Souls",
+    "stack_size": 9,
+    "effect": "9x Shrieking Essence",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "This item can be acquired from map boss versions of the Act 9 Trio (Shavronne, Doedre, & Maligaro)"
+  },
+  {
+    "name": "Her Mask",
+    "url": "https://pathofexile.gamepedia.com/Her_Mask",
+    "stack_size": 4,
+    "effect": "Sacrifice Fragment",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Academy Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Academy_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Alleyways Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Alleyways_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ancient City Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ancient_City_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Arcade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arcade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Arid Lake Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arid_Lake_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ashen Wood Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ashen_Wood_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Atoll Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Atoll_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Maelström of Chaos (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Barrows Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Barrows_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Beach Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Beach_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Burial Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Burial_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Cage Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cage_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Canyon Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Canyon_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Cells Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cells_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Cemetery Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cemetery_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Hallowed Ground (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Hallowed_Ground_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Channel Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Channel_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Chateau Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Chateau_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Perandus Manor (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Perandus_Manor_(War_for_the_Atlas)"
+      },
+      {
+        "location": "City Square Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/City_Square_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Conservatory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Conservatory_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Courthouse Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courthouse_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Desert Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Desert_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dungeon Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dungeon_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Excavation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Excavation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Fields Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Fields_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Flooded Mine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Flooded_Mine_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Gorge Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Gorge_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Graveyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Graveyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Grotto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Grotto_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Beachhead (Low Tier) (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Beachhead_(Low_Tier)_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Haunted Mansion Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Haunted_Mansion_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Iceberg Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Iceberg_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ivory Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ivory_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Jungle Valley Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Jungle_Valley_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Leyline Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Leyline_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lighthouse Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lighthouse_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lookout Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lookout_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Marshes Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Marshes_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mausoleum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mausoleum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Maze Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maze_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Pen Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pen_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Peninsula Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Peninsula_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Phantasmagoria Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Phantasmagoria_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Port Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Port_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Relic Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Relic_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Spider Lair Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Spider_Lair_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Springs Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Springs_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Strand Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Strand_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Whakawairua Tuahu (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Whakawairua_Tuahu_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sulphur Vents Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sulphur_Vents_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Thicket Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Thicket_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Toxic Sewer Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Toxic_Sewer_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Volcano Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Volcano_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Wharf Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Wharf_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Heterochromia",
+    "url": "https://pathofexile.gamepedia.com/Heterochromia",
+    "stack_size": 2,
+    "effect": "Two-Stone Ring",
+    "effect_url": "https://pathofexile.gamepedia.com/Two-Stone_Ring",
+    "locations": [
+      {
+        "location": "Estuary Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Estuary_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Hope",
+    "url": "https://pathofexile.gamepedia.com/Hope",
+    "stack_size": 5,
+    "effect": "Prismatic RingCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Prismatic_Ring",
+    "locations": [
+      {
+        "location": "Beach Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Beach_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dungeon Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dungeon_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Graveyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Graveyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lookout Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lookout_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "House of Mirrors",
+    "url": "https://pathofexile.gamepedia.com/House_of_Mirrors",
+    "stack_size": 9,
+    "effect": "Mirror of Kalandra",
+    "effect_url": "https://pathofexile.gamepedia.com/Mirror_of_Kalandra",
+    "locations": [
+      {
+        "location": "The Alluring Abyss",
+        "location_url": "https://pathofexile.gamepedia.com/The_Alluring_Abyss"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Hubris",
+    "url": "https://pathofexile.gamepedia.com/Hubris",
+    "stack_size": 5,
+    "effect": "Ring",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Hedge Maze",
+        "location_url": "https://pathofexile.gamepedia.com/The_Hedge_Maze"
+      },
+      {
+        "location": "The Library",
+        "location_url": "https://pathofexile.gamepedia.com/The_Library"
+      }
+    ],
+    "drop_restrictions": "Can drop from Jeweller's Strongboxes."
+  },
+  {
+    "name": "Humility",
+    "url": "https://pathofexile.gamepedia.com/Humility",
+    "stack_size": 9,
+    "effect": "Tabula Rasa",
+    "effect_url": "https://pathofexile.gamepedia.com/Tabula_Rasa",
+    "locations": [
+      {
+        "location": "The Aqueduct",
+        "location_url": "https://pathofexile.gamepedia.com/The_Aqueduct"
+      },
+      {
+        "location": "The Blood Aqueduct",
+        "location_url": "https://pathofexile.gamepedia.com/The_Blood_Aqueduct"
+      },
+      {
+        "location": "Channel Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Channel_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Waterways Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Waterways_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Hunter's Resolve",
+    "url": "https://pathofexile.gamepedia.com/Hunter%27s_Resolve",
+    "stack_size": 8,
+    "effect": "Bow",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Riverways (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Riverways_(Act_6)"
+      },
+      {
+        "location": "Springs Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Springs_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Hunter's Reward",
+    "url": "https://pathofexile.gamepedia.com/Hunter%27s_Reward",
+    "stack_size": 3,
+    "effect": "The Taming",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Taming",
+    "locations": [
+      {
+        "location": "Grotto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Grotto_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Putrid Cloister (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Putrid_Cloister_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground River Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_River_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Immortal Resolve",
+    "url": "https://pathofexile.gamepedia.com/Immortal_Resolve",
+    "stack_size": 6,
+    "effect": "Fated Connections",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Carcass Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Carcass_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vault Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vault_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Jack in the Box",
+    "url": "https://pathofexile.gamepedia.com/Jack_in_the_Box",
+    "stack_size": 4,
+    "effect": "Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Sarn Ramparts",
+        "location_url": "https://pathofexile.gamepedia.com/The_Sarn_Ramparts"
+      },
+      {
+        "location": "The Imperial Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Imperial_Fields"
+      },
+      {
+        "location": "The Harbour Bridge",
+        "location_url": "https://pathofexile.gamepedia.com/The_Harbour_Bridge"
+      },
+      {
+        "location": "The Grand Promenade",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grand_Promenade"
+      },
+      {
+        "location": "The Lunaris Concourse",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lunaris_Concourse"
+      },
+      {
+        "location": "The Quay",
+        "location_url": "https://pathofexile.gamepedia.com/The_Quay"
+      },
+      {
+        "location": "The Grain Gate",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grain_Gate"
+      },
+      {
+        "location": "Arsenal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arsenal_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ghetto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ghetto_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Port Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Port_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Promenade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Promenade_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Lantador's Lost Love",
+    "url": "https://pathofexile.gamepedia.com/Lantador%27s_Lost_Love",
+    "stack_size": 7,
+    "effect": "Two-Stone Ring",
+    "effect_url": "https://pathofexile.gamepedia.com/Two-Stone_Ring",
+    "locations": [
+      {
+        "location": "The Twilight Strand (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Twilight_Strand_(Act_6)"
+      },
+      {
+        "location": "The Riverways (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Riverways_(Act_6)"
+      },
+      {
+        "location": "The Wetlands (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Wetlands_(Act_6)"
+      },
+      {
+        "location": "The Southern Forest (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Southern_Forest_(Act_6)"
+      },
+      {
+        "location": "The Cavern of Anger (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Cavern_of_Anger_(Act_6)"
+      },
+      {
+        "location": "The Beacon",
+        "location_url": "https://pathofexile.gamepedia.com/The_Beacon"
+      },
+      {
+        "location": "The Brine King's Reef",
+        "location_url": "https://pathofexile.gamepedia.com/The_Brine_King%27s_Reef"
+      },
+      {
+        "location": "The Coast (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Coast_(Act_6)"
+      },
+      {
+        "location": "The Tidal Island (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Tidal_Island_(Act_6)"
+      },
+      {
+        "location": "The Mud Flats (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mud_Flats_(Act_6)"
+      },
+      {
+        "location": "The Karui Fortress",
+        "location_url": "https://pathofexile.gamepedia.com/The_Karui_Fortress"
+      },
+      {
+        "location": "The Ridge",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ridge"
+      },
+      {
+        "location": "The Lower Prison (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lower_Prison_(Act_6)"
+      },
+      {
+        "location": "Shavronne's Tower",
+        "location_url": "https://pathofexile.gamepedia.com/Shavronne%27s_Tower"
+      },
+      {
+        "location": "Prisoner's Gate (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/Prisoner%27s_Gate_(Act_6)"
+      },
+      {
+        "location": "The Western Forest (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Western_Forest_(Act_6)"
+      },
+      {
+        "location": "Maelström of Chaos (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lighthouse Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lighthouse_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mineral Pools Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mineral_Pools_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Reef Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Reef_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Last Hope",
+    "url": "https://pathofexile.gamepedia.com/Last_Hope",
+    "stack_size": 3,
+    "effect": "Mortal Hope",
+    "effect_url": "https://pathofexile.gamepedia.com/Mortal_Hope",
+    "locations": [
+      {
+        "location": "Vaal Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Left to Fate",
+    "url": "https://pathofexile.gamepedia.com/Left_to_Fate",
+    "stack_size": 4,
+    "effect": "MapMap Tier: 16Unidentified Corrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/index.php?title=Unidentified_Corrupted&action=edit&redlink=1",
+    "locations": [
+      {
+        "location": "The Pale Court",
+        "location_url": "https://pathofexile.gamepedia.com/The_Pale_Court"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Light and Truth",
+    "url": "https://pathofexile.gamepedia.com/Light_and_Truth",
+    "stack_size": 2,
+    "effect": "Crystal Sceptre",
+    "effect_url": "https://pathofexile.gamepedia.com/Crystal_Sceptre",
+    "locations": [
+      {
+        "location": "The Upper Sceptre of God",
+        "location_url": "https://pathofexile.gamepedia.com/The_Upper_Sceptre_of_God"
+      },
+      {
+        "location": "Residence Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Residence_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Villa Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Villa_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Lingering Remnants",
+    "url": "https://pathofexile.gamepedia.com/Lingering_Remnants",
+    "stack_size": 16,
+    "effect": "Vaal Temple MapItem Level: 83Corrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Vaal_Temple_Map_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "Dig Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dig_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ghetto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ghetto_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Lost Worlds",
+    "url": "https://pathofexile.gamepedia.com/Lost_Worlds",
+    "stack_size": 8,
+    "effect": "MapMap Tier: 15",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Sold by Zana"
+  },
+  {
+    "name": "Loyalty",
+    "url": "https://pathofexile.gamepedia.com/Loyalty",
+    "stack_size": 5,
+    "effect": "3x Orb of Fusing",
+    "effect_url": "https://pathofexile.gamepedia.com/Orb_of_Fusing",
+    "locations": [
+      {
+        "location": "The Den (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Den_(Act_7)"
+      },
+      {
+        "location": "Barrows Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Barrows_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Grotto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Grotto_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lair Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Lucky Connections",
+    "url": "https://pathofexile.gamepedia.com/Lucky_Connections",
+    "stack_size": 7,
+    "effect": "20x Orb of Fusing",
+    "effect_url": "https://pathofexile.gamepedia.com/Orb_of_Fusing",
+    "locations": [
+      {
+        "location": "The Docks",
+        "location_url": "https://pathofexile.gamepedia.com/The_Docks"
+      },
+      {
+        "location": "The Quay",
+        "location_url": "https://pathofexile.gamepedia.com/The_Quay"
+      },
+      {
+        "location": "Pier Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pier_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Port Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Port_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Shipyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shipyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Wharf Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Wharf_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Lucky Deck",
+    "url": "https://pathofexile.gamepedia.com/Lucky_Deck",
+    "stack_size": 9,
+    "effect": "10x Stacked Deck",
+    "effect_url": "https://pathofexile.gamepedia.com/Stacked_Deck",
+    "locations": [
+      {
+        "location": "Ramparts Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ramparts_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Also Shaped variants."
+  },
+  {
+    "name": "Lysah's Respite",
+    "url": "https://pathofexile.gamepedia.com/Lysah%27s_Respite",
+    "stack_size": 6,
+    "effect": "Agate AmuletCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Agate_Amulet",
+    "locations": [
+      {
+        "location": "Maelström of Chaos (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mineral Pools Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mineral_Pools_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Mawr Blaidd",
+    "url": "https://pathofexile.gamepedia.com/Mawr_Blaidd",
+    "stack_size": 16,
+    "effect": "Eyes of the Greatwolf",
+    "effect_url": "https://pathofexile.gamepedia.com/Eyes_of_the_Greatwolf",
+    "locations": [
+      {
+        "location": "Dark Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dark_Forest_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Merciless Armament",
+    "url": "https://pathofexile.gamepedia.com/Merciless_Armament",
+    "stack_size": 4,
+    "effect": "Merciless Two-Hand WeaponItem Level: 100",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Armoury Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Armoury_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Colonnade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colonnade_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Might is Right",
+    "url": "https://pathofexile.gamepedia.com/Might_is_Right",
+    "stack_size": 9,
+    "effect": "Trypanon",
+    "effect_url": "https://pathofexile.gamepedia.com/Trypanon",
+    "locations": [
+      {
+        "location": "The Ossuary (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ossuary_(Act_5)"
+      },
+      {
+        "location": "The Reliquary (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Reliquary_(Act_5)"
+      },
+      {
+        "location": "The Ossuary (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ossuary_(Act_10)"
+      },
+      {
+        "location": "Mausoleum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mausoleum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Relic Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Relic_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sepulchre Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sepulchre_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Mitts",
+    "url": "https://pathofexile.gamepedia.com/Mitts",
+    "stack_size": 5,
+    "effect": "Gloves",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Ascent",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ascent"
+      },
+      {
+        "location": "The Solaris Temple Level 1 (Act 8)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Solaris_Temple_Level_1_(Act_8)"
+      },
+      {
+        "location": "The Solaris Temple Level 2 (Act 8)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Solaris_Temple_Level_2_(Act_8)"
+      },
+      {
+        "location": "Iceberg Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Iceberg_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Summit Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Summit_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "No Traces",
+    "url": "https://pathofexile.gamepedia.com/No_Traces",
+    "stack_size": 9,
+    "effect": "30x Orb of Scouring",
+    "effect_url": "https://pathofexile.gamepedia.com/Orb_of_Scouring",
+    "locations": [
+      {
+        "location": "The Ossuary (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ossuary_(Act_5)"
+      },
+      {
+        "location": "The Ossuary (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ossuary_(Act_10)"
+      },
+      {
+        "location": "Mausoleum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mausoleum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sepulchre Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sepulchre_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Perfection",
+    "url": "https://pathofexile.gamepedia.com/Perfection",
+    "stack_size": 5,
+    "effect": "JewelleryItem Level: 100Shaper Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Pit of the Chimera Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pit_of_the_Chimera_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lair of the Hydra Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_of_the_Hydra_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Maze of the Minotaur Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maze_of_the_Minotaur_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Forge of the Phoenix Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Forge_of_the_Phoenix_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Drops from the Guardians of the Void."
+  },
+  {
+    "name": "Pride Before the Fall",
+    "url": "https://pathofexile.gamepedia.com/Pride_Before_the_Fall",
+    "stack_size": 8,
+    "effect": "Kaom's HeartCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Kaom%27s_Heart",
+    "locations": [
+      {
+        "location": "The Coast (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Coast_(Act_6)"
+      },
+      {
+        "location": "The Tidal Island (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Tidal_Island_(Act_6)"
+      },
+      {
+        "location": "The Mud Flats (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mud_Flats_(Act_6)"
+      },
+      {
+        "location": "The Karui Fortress",
+        "location_url": "https://pathofexile.gamepedia.com/The_Karui_Fortress"
+      },
+      {
+        "location": "Caldera Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Caldera_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lava Lake Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lava_Lake_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Marshes Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Marshes_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Volcano Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Volcano_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Prosperity",
+    "url": "https://pathofexile.gamepedia.com/Prosperity",
+    "stack_size": 10,
+    "effect": "Perandus' Gold Ring",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Tidal Island (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Tidal_Island_(Act_6)"
+      },
+      {
+        "location": "Shore Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shore_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Rain of Chaos",
+    "url": "https://pathofexile.gamepedia.com/Rain_of_Chaos",
+    "stack_size": 8,
+    "effect": "Chaos Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Chaos_Orb",
+    "locations": [
+      {
+        "location": "The Crossroads (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crossroads_(Act_7)"
+      },
+      {
+        "location": "The Imperial Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Imperial_Fields"
+      },
+      {
+        "location": "Castle Ruins Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Castle_Ruins_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Rain Tempter",
+    "url": "https://pathofexile.gamepedia.com/Rain_Tempter",
+    "stack_size": 9,
+    "effect": "Strand MapItem Level: 73",
+    "effect_url": "https://pathofexile.gamepedia.com/Strand_Map_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "Grotto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Grotto_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Rats",
+    "url": "https://pathofexile.gamepedia.com/Rats",
+    "stack_size": 8,
+    "effect": "Rat's Nest",
+    "effect_url": "https://pathofexile.gamepedia.com/Rat%27s_Nest",
+    "locations": [
+      {
+        "location": "The Imperial Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Imperial_Fields"
+      },
+      {
+        "location": "The Grain Gate",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grain_Gate"
+      },
+      {
+        "location": "Factory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Factory_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Rebirth",
+    "url": "https://pathofexile.gamepedia.com/Rebirth_(divination_card)",
+    "stack_size": 27,
+    "effect": "Charan's Sword",
+    "effect_url": "https://pathofexile.gamepedia.com/Charan%27s_Sword",
+    "locations": [
+      {
+        "location": "The Slave Pens",
+        "location_url": "https://pathofexile.gamepedia.com/The_Slave_Pens"
+      },
+      {
+        "location": "The Ruined Square",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ruined_Square"
+      },
+      {
+        "location": "The Desecrated Chambers",
+        "location_url": "https://pathofexile.gamepedia.com/The_Desecrated_Chambers"
+      },
+      {
+        "location": "The Control Blocks",
+        "location_url": "https://pathofexile.gamepedia.com/The_Control_Blocks"
+      },
+      {
+        "location": "The Reliquary (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Reliquary_(Act_10)"
+      },
+      {
+        "location": "The Broken Bridge (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Broken_Bridge_(Act_7)"
+      },
+      {
+        "location": "The Crypt (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crypt_(Act_7)"
+      },
+      {
+        "location": "The Ashen Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ashen_Fields"
+      },
+      {
+        "location": "The Blood Aqueduct",
+        "location_url": "https://pathofexile.gamepedia.com/The_Blood_Aqueduct"
+      },
+      {
+        "location": "The Vastiri Desert",
+        "location_url": "https://pathofexile.gamepedia.com/The_Vastiri_Desert"
+      },
+      {
+        "location": "The Foothills",
+        "location_url": "https://pathofexile.gamepedia.com/The_Foothills"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Scholar of the Seas",
+    "url": "https://pathofexile.gamepedia.com/Scholar_of_the_Seas",
+    "stack_size": 7,
+    "effect": "Mao Kun",
+    "effect_url": "https://pathofexile.gamepedia.com/Mao_Kun_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "The Brine King's Reef",
+        "location_url": "https://pathofexile.gamepedia.com/The_Brine_King%27s_Reef"
+      },
+      {
+        "location": "Coves Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Coves_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Reef Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Reef_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Shard of Fate",
+    "url": "https://pathofexile.gamepedia.com/Shard_of_Fate",
+    "stack_size": 4,
+    "effect": "Vivid Jewel",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Chamber of Sins Level 2 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_2_(Act_7)"
+      },
+      {
+        "location": "Museum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Museum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Overgrown Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Struck by Lightning",
+    "url": "https://pathofexile.gamepedia.com/Struck_by_Lightning",
+    "stack_size": 3,
+    "effect": "Electrocuting JewelleryItem Level: 76",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Cemetery Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cemetery_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Courtyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courtyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Graveyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Graveyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Infested Valley Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Infested_Valley_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Leyline Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Leyline_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Promenade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Promenade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Shipyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shipyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Wharf Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Wharf_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Admirer",
+    "url": "https://pathofexile.gamepedia.com/The_Admirer",
+    "stack_size": 9,
+    "effect": "Atziri Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Ancient City Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ancient_City_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Maze Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maze_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Pyramid Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Pyramid_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Aesthete",
+    "url": "https://pathofexile.gamepedia.com/The_Aesthete",
+    "stack_size": 8,
+    "effect": "Shavronne Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Harvest (area)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Harvest_(area)"
+      },
+      {
+        "location": "Core Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Core_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Scriptorium Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Scriptorium_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tribunal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tribunal_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Shavronne or corresponding bosses"
+  },
+  {
+    "name": "The Arena Champion",
+    "url": "https://pathofexile.gamepedia.com/The_Arena_Champion",
+    "stack_size": 10,
+    "effect": "Colosseum Map",
+    "effect_url": "https://pathofexile.gamepedia.com/Colosseum_Map_(War_for_the_Atlas)",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Army of Blood",
+    "url": "https://pathofexile.gamepedia.com/The_Army_of_Blood",
+    "stack_size": 6,
+    "effect": "Bloodbond",
+    "effect_url": "https://pathofexile.gamepedia.com/Bloodbond",
+    "locations": [
+      {
+        "location": "Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Artist",
+    "url": "https://pathofexile.gamepedia.com/The_Artist",
+    "stack_size": 11,
+    "effect": "Level 4 EnhanceCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Avenger",
+    "url": "https://pathofexile.gamepedia.com/The_Avenger",
+    "stack_size": 12,
+    "effect": "MjölnerCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Mj%C3%B6lner",
+    "locations": [
+      {
+        "location": "Torture Chamber Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Torture_Chamber_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Battle Born",
+    "url": "https://pathofexile.gamepedia.com/The_Battle_Born",
+    "stack_size": 5,
+    "effect": "Axe",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Kaom's Dream",
+        "location_url": "https://pathofexile.gamepedia.com/Kaom%27s_Dream"
+      },
+      {
+        "location": "Kaom's Stronghold",
+        "location_url": "https://pathofexile.gamepedia.com/Kaom%27s_Stronghold"
+      },
+      {
+        "location": "Caldera Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Caldera_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Volcano Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Volcano_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Beast",
+    "url": "https://pathofexile.gamepedia.com/The_Beast",
+    "stack_size": 6,
+    "effect": "Belly of the Beast",
+    "effect_url": "https://pathofexile.gamepedia.com/Belly_of_the_Beast",
+    "locations": [
+      {
+        "location": "The Belly of the Beast Level 1",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_Level_1"
+      },
+      {
+        "location": "The Belly of the Beast Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_Level_2"
+      },
+      {
+        "location": "The Belly of the Beast (Act 9)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_(Act_9)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Betrayal",
+    "url": "https://pathofexile.gamepedia.com/The_Betrayal",
+    "stack_size": 9,
+    "effect": "Maligaro's Virtuosity",
+    "effect_url": "https://pathofexile.gamepedia.com/Maligaro%27s_Virtuosity",
+    "locations": [
+      {
+        "location": "The Riverways (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Riverways_(Act_6)"
+      },
+      {
+        "location": "The Southern Forest (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Southern_Forest_(Act_6)"
+      },
+      {
+        "location": "The Western Forest (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Western_Forest_(Act_6)"
+      },
+      {
+        "location": "The Crossroads (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crossroads_(Act_7)"
+      },
+      {
+        "location": "The Northern Forest (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Northern_Forest_(Act_7)"
+      },
+      {
+        "location": "Burial Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Burial_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mesa Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mesa_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Spider Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Spider_Forest_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Springs Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Springs_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Strand Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Strand_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Blazing Fire",
+    "url": "https://pathofexile.gamepedia.com/The_Blazing_Fire",
+    "stack_size": 6,
+    "effect": "Chin Sol",
+    "effect_url": "https://pathofexile.gamepedia.com/Chin_Sol",
+    "locations": [
+      {
+        "location": "The Ruined Square",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ruined_Square"
+      },
+      {
+        "location": "The Torched Courts (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Torched_Courts_(Act_5)"
+      },
+      {
+        "location": "The Ravaged Square",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ravaged_Square"
+      },
+      {
+        "location": "The Torched Courts (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Torched_Courts_(Act_10)"
+      },
+      {
+        "location": "Alleyways Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Alleyways_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Haunted Mansion Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Haunted_Mansion_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Siege Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Siege_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Body",
+    "url": "https://pathofexile.gamepedia.com/The_Body",
+    "stack_size": 4,
+    "effect": "Body Armour",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Can drop from an Armourer's Strongbox."
+  },
+  {
+    "name": "The Breach",
+    "url": "https://pathofexile.gamepedia.com/The_Breach",
+    "stack_size": 4,
+    "effect": "Breach Item",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Drops from Null Portals that spawn in Elder-Influenced maps."
+  },
+  {
+    "name": "The Brittle Emperor",
+    "url": "https://pathofexile.gamepedia.com/The_Brittle_Emperor",
+    "stack_size": 8,
+    "effect": "Voll's DevotionCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Voll%27s_Devotion",
+    "locations": [
+      {
+        "location": "The Dried Lake",
+        "location_url": "https://pathofexile.gamepedia.com/The_Dried_Lake"
+      }
+    ],
+    "drop_restrictions": "Voll, Emperor of Purity or corresponding bosses (The Brittle Emperor)"
+  },
+  {
+    "name": "The Cacophony",
+    "url": "https://pathofexile.gamepedia.com/The_Cacophony",
+    "stack_size": 8,
+    "effect": "3x Deafening Essence",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Maelström of Chaos (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Crimson Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Crimson_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Excavation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Excavation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mineral Pools Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mineral_Pools_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sepulchre Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sepulchre_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Calling",
+    "url": "https://pathofexile.gamepedia.com/The_Calling",
+    "stack_size": 6,
+    "effect": "Beyond Item",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Beyond Demons"
+  },
+  {
+    "name": "The Carrion Crow",
+    "url": "https://pathofexile.gamepedia.com/The_Carrion_Crow",
+    "stack_size": 4,
+    "effect": "Life Armour",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Western Forest (Act 2)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Western_Forest_(Act_2)"
+      },
+      {
+        "location": "The City of Sarn",
+        "location_url": "https://pathofexile.gamepedia.com/The_City_of_Sarn"
+      },
+      {
+        "location": "The Ebony Barracks",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ebony_Barracks"
+      },
+      {
+        "location": "The Battlefront",
+        "location_url": "https://pathofexile.gamepedia.com/The_Battlefront"
+      },
+      {
+        "location": "The Aqueduct",
+        "location_url": "https://pathofexile.gamepedia.com/The_Aqueduct"
+      },
+      {
+        "location": "The Ascent",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ascent"
+      },
+      {
+        "location": "The Grand Promenade",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grand_Promenade"
+      },
+      {
+        "location": "The Blood Aqueduct",
+        "location_url": "https://pathofexile.gamepedia.com/The_Blood_Aqueduct"
+      },
+      {
+        "location": "Colonnade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colonnade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Courtyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courtyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Promenade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Promenade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ramparts Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ramparts_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Cartographer",
+    "url": "https://pathofexile.gamepedia.com/The_Cartographer",
+    "stack_size": 1,
+    "effect": "10x Cartographer's Chisel",
+    "effect_url": "https://pathofexile.gamepedia.com/Cartographer%27s_Chisel",
+    "locations": [],
+    "drop_restrictions": "Cartographer's Strongbox"
+  },
+  {
+    "name": "The Cataclysm",
+    "url": "https://pathofexile.gamepedia.com/The_Cataclysm",
+    "stack_size": 13,
+    "effect": "Level 21 Spell GemCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Strange Sinkhole",
+        "location_url": "https://pathofexile.gamepedia.com/Strange_Sinkhole"
+      },
+      {
+        "location": "Concealed Cavity",
+        "location_url": "https://pathofexile.gamepedia.com/Concealed_Cavity"
+      },
+      {
+        "location": "Sunken Shingle",
+        "location_url": "https://pathofexile.gamepedia.com/Sunken_Shingle"
+      },
+      {
+        "location": "Clouded Ridge",
+        "location_url": "https://pathofexile.gamepedia.com/Clouded_Ridge"
+      },
+      {
+        "location": "Forgotten Oubliette",
+        "location_url": "https://pathofexile.gamepedia.com/Forgotten_Oubliette"
+      },
+      {
+        "location": "Remote Gulch",
+        "location_url": "https://pathofexile.gamepedia.com/Remote_Gulch"
+      },
+      {
+        "location": "Cremated Archives (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/Cremated_Archives_(Act_10)"
+      },
+      {
+        "location": "Narrow Ravine",
+        "location_url": "https://pathofexile.gamepedia.com/Narrow_Ravine"
+      },
+      {
+        "location": "Mystical Clearing",
+        "location_url": "https://pathofexile.gamepedia.com/Mystical_Clearing"
+      },
+      {
+        "location": "Covered-up Hollow",
+        "location_url": "https://pathofexile.gamepedia.com/Covered-up_Hollow"
+      },
+      {
+        "location": "Hidden Patch",
+        "location_url": "https://pathofexile.gamepedia.com/Hidden_Patch"
+      },
+      {
+        "location": "Entombed Alcove",
+        "location_url": "https://pathofexile.gamepedia.com/Entombed_Alcove"
+      },
+      {
+        "location": "Secret Laboratory",
+        "location_url": "https://pathofexile.gamepedia.com/Secret_Laboratory"
+      },
+      {
+        "location": "Secluded Copse",
+        "location_url": "https://pathofexile.gamepedia.com/Secluded_Copse"
+      },
+      {
+        "location": "Forbidden Chamber",
+        "location_url": "https://pathofexile.gamepedia.com/Forbidden_Chamber"
+      },
+      {
+        "location": "Quarantined Quarters",
+        "location_url": "https://pathofexile.gamepedia.com/Quarantined_Quarters"
+      },
+      {
+        "location": "Inner Grounds",
+        "location_url": "https://pathofexile.gamepedia.com/Inner_Grounds"
+      },
+      {
+        "location": "Sealed Corridors",
+        "location_url": "https://pathofexile.gamepedia.com/Sealed_Corridors"
+      },
+      {
+        "location": "Restricted Gallery",
+        "location_url": "https://pathofexile.gamepedia.com/Restricted_Gallery"
+      },
+      {
+        "location": "Disused Furnace",
+        "location_url": "https://pathofexile.gamepedia.com/Disused_Furnace"
+      },
+      {
+        "location": "Blind Alley",
+        "location_url": "https://pathofexile.gamepedia.com/Blind_Alley"
+      },
+      {
+        "location": "Entombed Chamber",
+        "location_url": "https://pathofexile.gamepedia.com/Entombed_Chamber"
+      },
+      {
+        "location": "Sacred Chambers",
+        "location_url": "https://pathofexile.gamepedia.com/Sacred_Chambers"
+      },
+      {
+        "location": "Stagnant Canal",
+        "location_url": "https://pathofexile.gamepedia.com/Stagnant_Canal"
+      },
+      {
+        "location": "Walled-off Ducts",
+        "location_url": "https://pathofexile.gamepedia.com/Walled-off_Ducts"
+      },
+      {
+        "location": "Neglected Cellar",
+        "location_url": "https://pathofexile.gamepedia.com/Neglected_Cellar"
+      },
+      {
+        "location": "Arcane Chambers",
+        "location_url": "https://pathofexile.gamepedia.com/Arcane_Chambers"
+      },
+      {
+        "location": "Forgotten Conduit",
+        "location_url": "https://pathofexile.gamepedia.com/Forgotten_Conduit"
+      },
+      {
+        "location": "Ancient Catacomb",
+        "location_url": "https://pathofexile.gamepedia.com/Ancient_Catacomb"
+      },
+      {
+        "location": "Haunted Mineshaft",
+        "location_url": "https://pathofexile.gamepedia.com/Haunted_Mineshaft"
+      },
+      {
+        "location": "Abandoned Dam",
+        "location_url": "https://pathofexile.gamepedia.com/Abandoned_Dam"
+      },
+      {
+        "location": "Desolate Track",
+        "location_url": "https://pathofexile.gamepedia.com/Desolate_Track"
+      },
+      {
+        "location": "Reclaimed Barracks",
+        "location_url": "https://pathofexile.gamepedia.com/Reclaimed_Barracks"
+      },
+      {
+        "location": "Sealed Basement",
+        "location_url": "https://pathofexile.gamepedia.com/Sealed_Basement"
+      },
+      {
+        "location": "Secluded Canal",
+        "location_url": "https://pathofexile.gamepedia.com/Secluded_Canal"
+      },
+      {
+        "location": "Forbidden Archives",
+        "location_url": "https://pathofexile.gamepedia.com/Forbidden_Archives"
+      },
+      {
+        "location": "Cremated Archives (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/Cremated_Archives_(Act_5)"
+      },
+      {
+        "location": "Twisted Inquisitorium",
+        "location_url": "https://pathofexile.gamepedia.com/Twisted_Inquisitorium"
+      },
+      {
+        "location": "Deathly Chambers",
+        "location_url": "https://pathofexile.gamepedia.com/Deathly_Chambers"
+      },
+      {
+        "location": "Restricted Collection",
+        "location_url": "https://pathofexile.gamepedia.com/Restricted_Collection"
+      },
+      {
+        "location": "Side Chapel",
+        "location_url": "https://pathofexile.gamepedia.com/Side_Chapel"
+      },
+      {
+        "location": "Radiant Pools",
+        "location_url": "https://pathofexile.gamepedia.com/Radiant_Pools"
+      },
+      {
+        "location": "Clouded Ledge",
+        "location_url": "https://pathofexile.gamepedia.com/Clouded_Ledge"
+      },
+      {
+        "location": "Flooded Complex",
+        "location_url": "https://pathofexile.gamepedia.com/Flooded_Complex"
+      },
+      {
+        "location": "Forbidden Shrine",
+        "location_url": "https://pathofexile.gamepedia.com/Forbidden_Shrine"
+      },
+      {
+        "location": "Sealed Repository",
+        "location_url": "https://pathofexile.gamepedia.com/Sealed_Repository"
+      },
+      {
+        "location": "Evacuated Quarter",
+        "location_url": "https://pathofexile.gamepedia.com/Evacuated_Quarter"
+      },
+      {
+        "location": "Concealed Caldarium",
+        "location_url": "https://pathofexile.gamepedia.com/Concealed_Caldarium"
+      },
+      {
+        "location": "Moonlit Chambers",
+        "location_url": "https://pathofexile.gamepedia.com/Moonlit_Chambers"
+      },
+      {
+        "location": "Shifting Sands",
+        "location_url": "https://pathofexile.gamepedia.com/Shifting_Sands"
+      },
+      {
+        "location": "Forgotten Gulch",
+        "location_url": "https://pathofexile.gamepedia.com/Forgotten_Gulch"
+      },
+      {
+        "location": "Desolate Isle",
+        "location_url": "https://pathofexile.gamepedia.com/Desolate_Isle"
+      },
+      {
+        "location": "Dusty Bluff",
+        "location_url": "https://pathofexile.gamepedia.com/Dusty_Bluff"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Catalyst",
+    "url": "https://pathofexile.gamepedia.com/The_Catalyst",
+    "stack_size": 3,
+    "effect": "Vaal Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Vaal_Orb",
+    "locations": [
+      {
+        "location": "The Vaal City",
+        "location_url": "https://pathofexile.gamepedia.com/The_Vaal_City"
+      },
+      {
+        "location": "The Temple of Decay Level 1",
+        "location_url": "https://pathofexile.gamepedia.com/The_Temple_of_Decay_Level_1"
+      },
+      {
+        "location": "The Temple of Decay Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Temple_of_Decay_Level_2"
+      },
+      {
+        "location": "Ancient City Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ancient_City_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Maze Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maze_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Pyramid Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Pyramid_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaults of Atziri (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaults_of_Atziri_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Celestial Justicar",
+    "url": "https://pathofexile.gamepedia.com/The_Celestial_Justicar",
+    "stack_size": 6,
+    "effect": "Six-Link Astral Plate",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Crypt (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crypt_(Act_7)"
+      },
+      {
+        "location": "Cursed Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cursed_Crypt_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Celestial Stone",
+    "url": "https://pathofexile.gamepedia.com/The_Celestial_Stone",
+    "stack_size": 10,
+    "effect": "Opal RingItem Level: 100Shaper Item",
+    "effect_url": "https://pathofexile.gamepedia.com/Opal_Ring",
+    "locations": [
+      {
+        "location": "Basilica Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Basilica_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lair of the Hydra Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_of_the_Hydra_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Terrace Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Terrace_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Can drop from Jeweller's Strongboxes."
+  },
+  {
+    "name": "The Chains that Bind",
+    "url": "https://pathofexile.gamepedia.com/The_Chains_that_Bind",
+    "stack_size": 11,
+    "effect": "Six-Link Body Armour",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Cage Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cage_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lava Chamber Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lava_Chamber_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Pen Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pen_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Pit Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pit_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Coming Storm",
+    "url": "https://pathofexile.gamepedia.com/The_Coming_Storm",
+    "stack_size": 8,
+    "effect": "Lightning Coil",
+    "effect_url": "https://pathofexile.gamepedia.com/Lightning_Coil",
+    "locations": [
+      {
+        "location": "Colonnade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colonnade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Graveyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Graveyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Infested Valley Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Infested_Valley_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Leyline Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Leyline_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Shipyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shipyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Villa Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Villa_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Wharf Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Wharf_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Conduit",
+    "url": "https://pathofexile.gamepedia.com/The_Conduit",
+    "stack_size": 9,
+    "effect": "Doryani's Fist",
+    "effect_url": "https://pathofexile.gamepedia.com/Doryani%27s_Fist",
+    "locations": [
+      {
+        "location": "The Upper Sceptre of God",
+        "location_url": "https://pathofexile.gamepedia.com/The_Upper_Sceptre_of_God"
+      }
+    ],
+    "drop_restrictions": "Dominus or corresponding bosses"
+  },
+  {
+    "name": "The Cursed King",
+    "url": "https://pathofexile.gamepedia.com/The_Cursed_King",
+    "stack_size": 8,
+    "effect": "Rigwald's Curse",
+    "effect_url": "https://pathofexile.gamepedia.com/Rigwald%27s_Curse",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Dapper Prodigy",
+    "url": "https://pathofexile.gamepedia.com/The_Dapper_Prodigy",
+    "stack_size": 6,
+    "effect": "Six-Link Body ArmourItem Level: 100",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Residence Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Residence_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Dark Mage",
+    "url": "https://pathofexile.gamepedia.com/The_Dark_Mage",
+    "stack_size": 6,
+    "effect": "Six-Link StaffItem Level: 55",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Chamber of Sins Level 2 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_2_(Act_7)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Darkest Dream",
+    "url": "https://pathofexile.gamepedia.com/The_Darkest_Dream",
+    "stack_size": 6,
+    "effect": "Severed in SleepCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Severed_in_Sleep",
+    "locations": [
+      {
+        "location": "Whakawairua Tuahu (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Whakawairua_Tuahu_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Deceiver",
+    "url": "https://pathofexile.gamepedia.com/The_Deceiver",
+    "stack_size": 4,
+    "effect": "Belt of the DeceiverCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Belt_of_the_Deceiver",
+    "locations": [
+      {
+        "location": "The Grand Arena",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grand_Arena"
+      },
+      {
+        "location": "Arena Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arena_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Colosseum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colosseum_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Demoness",
+    "url": "https://pathofexile.gamepedia.com/The_Demoness",
+    "stack_size": 5,
+    "effect": "Death's Hand",
+    "effect_url": "https://pathofexile.gamepedia.com/Death%27s_Hand",
+    "locations": [
+      {
+        "location": "The Northern Forest (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Northern_Forest_(Act_7)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Doctor",
+    "url": "https://pathofexile.gamepedia.com/The_Doctor",
+    "stack_size": 8,
+    "effect": "Headhunter",
+    "effect_url": "https://pathofexile.gamepedia.com/Headhunter",
+    "locations": [
+      {
+        "location": "Burial Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Burial_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Spider Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Spider_Forest_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Doppelganger",
+    "url": "https://pathofexile.gamepedia.com/The_Doppelganger",
+    "stack_size": 2,
+    "effect": "Superior Mirror ArrowQuality: +20%",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Crossroads (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crossroads_(Act_7)"
+      },
+      {
+        "location": "Whakawairua Tuahu (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Whakawairua_Tuahu_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Dragon",
+    "url": "https://pathofexile.gamepedia.com/The_Dragon",
+    "stack_size": 4,
+    "effect": "Coruscating Elixir",
+    "effect_url": "https://pathofexile.gamepedia.com/Coruscating_Elixir",
+    "locations": [
+      {
+        "location": "Dark Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dark_Forest_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Dragon's Heart",
+    "url": "https://pathofexile.gamepedia.com/The_Dragon%27s_Heart",
+    "stack_size": 11,
+    "effect": "Level 4 EmpowerCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Pit of the Chimera Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pit_of_the_Chimera_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Putrid Cloister (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Putrid_Cloister_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Dreamer",
+    "url": "https://pathofexile.gamepedia.com/The_Dreamer",
+    "stack_size": 6,
+    "effect": "Chayula Item",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "The Dreamer can drop from Agents of the Void."
+  },
+  {
+    "name": "The Dreamland",
+    "url": "https://pathofexile.gamepedia.com/The_Dreamland",
+    "stack_size": 8,
+    "effect": "Poorjoy's Asylum",
+    "effect_url": "https://pathofexile.gamepedia.com/Poorjoy%27s_Asylum_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "Laboratory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Laboratory_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Can drop from Cartographer's Strongboxes."
+  },
+  {
+    "name": "The Drunken Aristocrat",
+    "url": "https://pathofexile.gamepedia.com/The_Drunken_Aristocrat",
+    "stack_size": 8,
+    "effect": "Divination Distillate",
+    "effect_url": "https://pathofexile.gamepedia.com/Divination_Distillate",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Endless Darkness",
+    "url": "https://pathofexile.gamepedia.com/The_Endless_Darkness",
+    "stack_size": 9,
+    "effect": "Voidforge",
+    "effect_url": "https://pathofexile.gamepedia.com/Voidforge",
+    "locations": [
+      {
+        "location": "The Beachhead (High Tier) (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Beachhead_(High_Tier)_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Beachhead (Low Tier) (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Beachhead_(Low_Tier)_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Beachhead (Mid Tier) (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Beachhead_(Mid_Tier)_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Endurance",
+    "url": "https://pathofexile.gamepedia.com/The_Endurance",
+    "stack_size": 4,
+    "effect": "Vivid Crimson Jewel",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Mines Level 1",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mines_Level_1"
+      },
+      {
+        "location": "The Mines Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mines_Level_2"
+      },
+      {
+        "location": "The Crystal Veins",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crystal_Veins"
+      },
+      {
+        "location": "The Tunnel",
+        "location_url": "https://pathofexile.gamepedia.com/The_Tunnel"
+      },
+      {
+        "location": "Excavation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Excavation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Geode Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Geode_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Enlightened",
+    "url": "https://pathofexile.gamepedia.com/The_Enlightened",
+    "stack_size": 6,
+    "effect": "Level 3 Enlighten",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Ashen Wood Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ashen_Wood_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Ethereal",
+    "url": "https://pathofexile.gamepedia.com/The_Ethereal",
+    "stack_size": 7,
+    "effect": "Six-Link Vaal Regalia",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Apex of Sacrifice",
+        "location_url": "https://pathofexile.gamepedia.com/The_Apex_of_Sacrifice"
+      }
+    ],
+    "drop_restrictions": "The Eternal Labyrinth"
+  },
+  {
+    "name": "The Explorer",
+    "url": "https://pathofexile.gamepedia.com/The_Explorer",
+    "stack_size": 6,
+    "effect": "MapCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Dread Thicket (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Dread_Thicket_(Act_7)"
+      },
+      {
+        "location": "Thicket Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Thicket_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Eye of the Dragon",
+    "url": "https://pathofexile.gamepedia.com/The_Eye_of_the_Dragon",
+    "stack_size": 10,
+    "effect": "JewelCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Boiling Lake",
+        "location_url": "https://pathofexile.gamepedia.com/The_Boiling_Lake"
+      },
+      {
+        "location": "Marshes Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Marshes_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sulphur Vents Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sulphur_Vents_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Fathomless Depths",
+    "url": "https://pathofexile.gamepedia.com/The_Fathomless_Depths",
+    "stack_size": 8,
+    "effect": "Lightpoacher",
+    "effect_url": "https://pathofexile.gamepedia.com/Lightpoacher",
+    "locations": [
+      {
+        "location": "The Cavern of Anger (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Cavern_of_Anger_(Act_6)"
+      },
+      {
+        "location": "Flooded Mine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Flooded_Mine_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Feast",
+    "url": "https://pathofexile.gamepedia.com/The_Feast",
+    "stack_size": 5,
+    "effect": "Romira's BanquetCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Romira%27s_Banquet",
+    "locations": [
+      {
+        "location": "The Northern Forest (Act 2)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Northern_Forest_(Act_2)"
+      },
+      {
+        "location": "The Sewers",
+        "location_url": "https://pathofexile.gamepedia.com/The_Sewers"
+      },
+      {
+        "location": "The Toxic Conduits",
+        "location_url": "https://pathofexile.gamepedia.com/The_Toxic_Conduits"
+      },
+      {
+        "location": "Lair of the Hydra Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_of_the_Hydra_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Toxic Sewer Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Toxic_Sewer_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Waste Pool Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Waste_Pool_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Fiend",
+    "url": "https://pathofexile.gamepedia.com/The_Fiend",
+    "stack_size": 11,
+    "effect": "HeadhunterCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Headhunter",
+    "locations": [
+      {
+        "location": "The Putrid Cloister (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Putrid_Cloister_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Fletcher",
+    "url": "https://pathofexile.gamepedia.com/The_Fletcher",
+    "stack_size": 5,
+    "effect": "DrillneckCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Drillneck",
+    "locations": [
+      {
+        "location": "The Climb",
+        "location_url": "https://pathofexile.gamepedia.com/The_Climb"
+      }
+    ],
+    "drop_restrictions": "Ironpoint the Forsaken, Steelpoint the Avenger, Lieutenant of the Bow"
+  },
+  {
+    "name": "The Flora's Gift",
+    "url": "https://pathofexile.gamepedia.com/The_Flora%27s_Gift",
+    "stack_size": 5,
+    "effect": "Five-Link StaffItem Level: 66",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Jungle Valley Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Jungle_Valley_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tropical Island Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tropical_Island_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Formless Sea",
+    "url": "https://pathofexile.gamepedia.com/The_Formless_Sea",
+    "stack_size": 7,
+    "effect": "Varunastra",
+    "effect_url": "https://pathofexile.gamepedia.com/Varunastra",
+    "locations": [
+      {
+        "location": "Reef Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Reef_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Forsaken",
+    "url": "https://pathofexile.gamepedia.com/The_Forsaken",
+    "stack_size": 7,
+    "effect": "Umbilicus Immortalis",
+    "effect_url": "https://pathofexile.gamepedia.com/Umbilicus_Immortalis",
+    "locations": [
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Olmec's Sanctum",
+        "location_url": "https://pathofexile.gamepedia.com/Olmec%27s_Sanctum"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Fox",
+    "url": "https://pathofexile.gamepedia.com/The_Fox",
+    "stack_size": 6,
+    "effect": "Level 20 Gem",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Western Forest (Act 2)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Western_Forest_(Act_2)"
+      },
+      {
+        "location": "The Vaal City",
+        "location_url": "https://pathofexile.gamepedia.com/The_Vaal_City"
+      },
+      {
+        "location": "The Crossroads (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crossroads_(Act_7)"
+      },
+      {
+        "location": "The Fellshrine Ruins (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Fellshrine_Ruins_(Act_7)"
+      },
+      {
+        "location": "Barrows Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Barrows_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sunken City Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sunken_City_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Garish Power",
+    "url": "https://pathofexile.gamepedia.com/The_Garish_Power",
+    "stack_size": 4,
+    "effect": "Jewel",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Chamber of Sins Level 1 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_1_(Act_7)"
+      },
+      {
+        "location": "The Chamber of Sins Level 2 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_2_(Act_7)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Overgrown Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Gemcutter",
+    "url": "https://pathofexile.gamepedia.com/The_Gemcutter",
+    "stack_size": 3,
+    "effect": "Gemcutter's Prism",
+    "effect_url": "https://pathofexile.gamepedia.com/Gemcutter%27s_Prism",
+    "locations": [],
+    "drop_restrictions": "Gemcutter's Strongbox"
+  },
+  {
+    "name": "The Gentleman",
+    "url": "https://pathofexile.gamepedia.com/The_Gentleman",
+    "stack_size": 4,
+    "effect": "SwordCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Slums",
+        "location_url": "https://pathofexile.gamepedia.com/The_Slums"
+      },
+      {
+        "location": "The Sarn Ramparts",
+        "location_url": "https://pathofexile.gamepedia.com/The_Sarn_Ramparts"
+      },
+      {
+        "location": "The Grain Gate",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grain_Gate"
+      },
+      {
+        "location": "Ghetto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ghetto_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Gladiator",
+    "url": "https://pathofexile.gamepedia.com/The_Gladiator",
+    "stack_size": 5,
+    "effect": "Nightmare Bascinet",
+    "effect_url": "https://pathofexile.gamepedia.com/Nightmare_Bascinet",
+    "locations": [
+      {
+        "location": "Daresso's Dream",
+        "location_url": "https://pathofexile.gamepedia.com/Daresso%27s_Dream"
+      },
+      {
+        "location": "The Grand Arena",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grand_Arena"
+      },
+      {
+        "location": "Arena Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arena_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Colosseum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colosseum_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Hale Heart",
+    "url": "https://pathofexile.gamepedia.com/The_Hale_Heart",
+    "stack_size": 4,
+    "effect": "ItemItem Level: 100Elder Item",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Can drop from Elder guardians."
+  },
+  {
+    "name": "The Harvester",
+    "url": "https://pathofexile.gamepedia.com/The_Harvester",
+    "stack_size": 11,
+    "effect": "The Harvest",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Harvest",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Hermit",
+    "url": "https://pathofexile.gamepedia.com/The_Hermit",
+    "stack_size": 9,
+    "effect": "Lifesprig",
+    "effect_url": "https://pathofexile.gamepedia.com/Lifesprig",
+    "locations": [
+      {
+        "location": "The Broken Bridge (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Broken_Bridge_(Act_7)"
+      },
+      {
+        "location": "The Causeway",
+        "location_url": "https://pathofexile.gamepedia.com/The_Causeway"
+      },
+      {
+        "location": "The Vaal City",
+        "location_url": "https://pathofexile.gamepedia.com/The_Vaal_City"
+      },
+      {
+        "location": "The Crossroads (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crossroads_(Act_7)"
+      },
+      {
+        "location": "The Fellshrine Ruins (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Fellshrine_Ruins_(Act_7)"
+      },
+      {
+        "location": "The Ashen Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ashen_Fields"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Hoarder",
+    "url": "https://pathofexile.gamepedia.com/The_Hoarder",
+    "stack_size": 12,
+    "effect": "Exalted Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Exalted_Orb",
+    "locations": [
+      {
+        "location": "The Belly of the Beast Level 1",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_Level_1"
+      },
+      {
+        "location": "The Belly of the Beast Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_Level_2"
+      },
+      {
+        "location": "The Harvest (area)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Harvest_(area)"
+      },
+      {
+        "location": "The Rotting Core",
+        "location_url": "https://pathofexile.gamepedia.com/The_Rotting_Core"
+      },
+      {
+        "location": "Vault Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vault_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Hunger",
+    "url": "https://pathofexile.gamepedia.com/The_Hunger",
+    "stack_size": 9,
+    "effect": "Taste of Hate",
+    "effect_url": "https://pathofexile.gamepedia.com/Taste_of_Hate",
+    "locations": [
+      {
+        "location": "The Belly of the Beast Level 1",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_Level_1"
+      },
+      {
+        "location": "The Belly of the Beast Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_Level_2"
+      },
+      {
+        "location": "The Harvest (area)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Harvest_(area)"
+      },
+      {
+        "location": "The Belly of the Beast (Act 9)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_(Act_9)"
+      },
+      {
+        "location": "The Rotting Core",
+        "location_url": "https://pathofexile.gamepedia.com/The_Rotting_Core"
+      },
+      {
+        "location": "Carcass Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Carcass_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Malformation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Malformation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Phantasmagoria Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Phantasmagoria_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Immortal",
+    "url": "https://pathofexile.gamepedia.com/The_Immortal",
+    "stack_size": 10,
+    "effect": "House of Mirrors",
+    "effect_url": "https://pathofexile.gamepedia.com/House_of_Mirrors",
+    "locations": [
+      {
+        "location": "The Hall of Grandmasters (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Hall_of_Grandmasters_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Incantation",
+    "url": "https://pathofexile.gamepedia.com/The_Incantation",
+    "stack_size": 4,
+    "effect": "The Whispering Ice",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Whispering_Ice",
+    "locations": [
+      {
+        "location": "The Western Forest (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Western_Forest_(Act_6)"
+      },
+      {
+        "location": "Burial Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Burial_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Spider Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Spider_Forest_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Innocent",
+    "url": "https://pathofexile.gamepedia.com/The_Innocent",
+    "stack_size": 10,
+    "effect": "40x Orb of Regret",
+    "effect_url": "https://pathofexile.gamepedia.com/Orb_of_Regret",
+    "locations": [
+      {
+        "location": "Basilica Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Basilica_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Inoculated",
+    "url": "https://pathofexile.gamepedia.com/The_Inoculated",
+    "stack_size": 4,
+    "effect": "Seraphim's Armour",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Acid Lakes Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Acid_Lakes_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Primordial Pool Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Primordial_Pool_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Insatiable",
+    "url": "https://pathofexile.gamepedia.com/The_Insatiable",
+    "stack_size": 3,
+    "effect": "The HarvestCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Harvest",
+    "locations": [
+      {
+        "location": "The Rotting Core",
+        "location_url": "https://pathofexile.gamepedia.com/The_Rotting_Core"
+      },
+      {
+        "location": "Carcass Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Carcass_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Inventor",
+    "url": "https://pathofexile.gamepedia.com/The_Inventor",
+    "stack_size": 6,
+    "effect": "10x Vaal Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Vaal_Orb",
+    "locations": [
+      {
+        "location": "The Temple of Decay Level 1",
+        "location_url": "https://pathofexile.gamepedia.com/The_Temple_of_Decay_Level_1"
+      },
+      {
+        "location": "The Temple of Decay Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Temple_of_Decay_Level_2"
+      },
+      {
+        "location": "Maze Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maze_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Pyramid Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Pyramid_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Iron Bard",
+    "url": "https://pathofexile.gamepedia.com/The_Iron_Bard",
+    "stack_size": 9,
+    "effect": "Trash to Treasure",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Vinktar Square (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Vinktar_Square_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Jester",
+    "url": "https://pathofexile.gamepedia.com/The_Jester",
+    "stack_size": 9,
+    "effect": "Merciless One-Hand WeaponItem Level: 100",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Jeweller's Boon",
+    "url": "https://pathofexile.gamepedia.com/The_Jeweller%27s_Boon",
+    "stack_size": 5,
+    "effect": "The Jeweller's Touch",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Crystal Ore Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Crystal_Ore_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The King's Blade",
+    "url": "https://pathofexile.gamepedia.com/The_King%27s_Blade",
+    "stack_size": 5,
+    "effect": "Bloodthirsty Eternal SwordItem Level: 66",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Daresso's Dream",
+        "location_url": "https://pathofexile.gamepedia.com/Daresso%27s_Dream"
+      },
+      {
+        "location": "Pit Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pit_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The King's Heart",
+    "url": "https://pathofexile.gamepedia.com/The_King%27s_Heart",
+    "stack_size": 8,
+    "effect": "Kaom's Heart",
+    "effect_url": "https://pathofexile.gamepedia.com/Kaom%27s_Heart",
+    "locations": [
+      {
+        "location": "The Coast (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Coast_(Act_6)"
+      },
+      {
+        "location": "Caldera Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Caldera_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Volcano Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Volcano_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Last One Standing",
+    "url": "https://pathofexile.gamepedia.com/The_Last_One_Standing",
+    "stack_size": 10,
+    "effect": "Atziri's Disfavour",
+    "effect_url": "https://pathofexile.gamepedia.com/Atziri%27s_Disfavour",
+    "locations": [
+      {
+        "location": "The Hall of Grandmasters (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Hall_of_Grandmasters_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Lich",
+    "url": "https://pathofexile.gamepedia.com/The_Lich",
+    "stack_size": 12,
+    "effect": "Midnight BargainCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Midnight_Bargain",
+    "locations": [
+      {
+        "location": "The Upper Prison",
+        "location_url": "https://pathofexile.gamepedia.com/The_Upper_Prison"
+      },
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Sawbones, Xixic, High Necromancer"
+  },
+  {
+    "name": "The Life Thief",
+    "url": "https://pathofexile.gamepedia.com/The_Life_Thief",
+    "stack_size": 6,
+    "effect": "Zerphi's Last Breath",
+    "effect_url": "https://pathofexile.gamepedia.com/Zerphi%27s_Last_Breath",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Lion",
+    "url": "https://pathofexile.gamepedia.com/The_Lion",
+    "stack_size": 5,
+    "effect": "Lioneye Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Gorge Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Gorge_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Lord in Black",
+    "url": "https://pathofexile.gamepedia.com/The_Lord_in_Black",
+    "stack_size": 6,
+    "effect": "Ring of BamethItem Level: 83",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "The Lord in Black can drop from Bameth, Shifting Darkness."
+  },
+  {
+    "name": "The Lover",
+    "url": "https://pathofexile.gamepedia.com/The_Lover",
+    "stack_size": 2,
+    "effect": "JewelleryItem Level: 79",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Maelström of Chaos (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mineral Pools Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mineral_Pools_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Lunaris Priestess",
+    "url": "https://pathofexile.gamepedia.com/The_Lunaris_Priestess",
+    "stack_size": 5,
+    "effect": "Sire of Shards",
+    "effect_url": "https://pathofexile.gamepedia.com/Sire_of_Shards",
+    "locations": [
+      {
+        "location": "The Lunaris Temple Level 2 (Act 8)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lunaris_Temple_Level_2_(Act_8)"
+      },
+      {
+        "location": "Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Master",
+    "url": "https://pathofexile.gamepedia.com/The_Master",
+    "stack_size": 4,
+    "effect": "Bisco's Collar",
+    "effect_url": "https://pathofexile.gamepedia.com/Bisco%27s_Collar",
+    "locations": [
+      {
+        "location": "Pen Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pen_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Master Artisan",
+    "url": "https://pathofexile.gamepedia.com/The_Master_Artisan",
+    "stack_size": 5,
+    "effect": "20x Quality Currency",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Mayor",
+    "url": "https://pathofexile.gamepedia.com/The_Mayor",
+    "stack_size": 5,
+    "effect": "The Perandus Manor",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Perandus_Manor_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "Ivory Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ivory_Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Can also drop from Armourer's Strongboxes."
+  },
+  {
+    "name": "The Mercenary",
+    "url": "https://pathofexile.gamepedia.com/The_Mercenary",
+    "stack_size": 5,
+    "effect": "ShieldCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Broken Bridge (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Broken_Bridge_(Act_7)"
+      },
+      {
+        "location": "Castle Ruins Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Castle_Ruins_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Metalsmith's Gift",
+    "url": "https://pathofexile.gamepedia.com/The_Metalsmith%27s_Gift",
+    "stack_size": 6,
+    "effect": "Prismatic Ring",
+    "effect_url": "https://pathofexile.gamepedia.com/Prismatic_Ring",
+    "locations": [
+      {
+        "location": "The Mud Flats (Act 1)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mud_Flats_(Act_1)"
+      },
+      {
+        "location": "The Fetid Pool",
+        "location_url": "https://pathofexile.gamepedia.com/The_Fetid_Pool"
+      },
+      {
+        "location": "The Mud Flats (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mud_Flats_(Act_6)"
+      },
+      {
+        "location": "The Karui Fortress",
+        "location_url": "https://pathofexile.gamepedia.com/The_Karui_Fortress"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Nurse",
+    "url": "https://pathofexile.gamepedia.com/The_Nurse",
+    "stack_size": 8,
+    "effect": "The Doctor",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Doctor",
+    "locations": [
+      {
+        "location": "Shavronne's Tower",
+        "location_url": "https://pathofexile.gamepedia.com/Shavronne%27s_Tower"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Oath",
+    "url": "https://pathofexile.gamepedia.com/The_Oath",
+    "stack_size": 6,
+    "effect": "Death's Oath",
+    "effect_url": "https://pathofexile.gamepedia.com/Death%27s_Oath",
+    "locations": [
+      {
+        "location": "The Belly of the Beast (Act 9)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Belly_of_the_Beast_(Act_9)"
+      },
+      {
+        "location": "Carcass Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Carcass_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Core Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Core_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Malformation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Malformation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Phantasmagoria Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Phantasmagoria_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Obscured",
+    "url": "https://pathofexile.gamepedia.com/The_Obscured",
+    "stack_size": 7,
+    "effect": "Breachstone",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Offering",
+    "url": "https://pathofexile.gamepedia.com/The_Offering",
+    "stack_size": 8,
+    "effect": "Shavronne's Wrappings",
+    "effect_url": "https://pathofexile.gamepedia.com/Shavronne%27s_Wrappings",
+    "locations": [
+      {
+        "location": "The Rotting Core",
+        "location_url": "https://pathofexile.gamepedia.com/The_Rotting_Core"
+      },
+      {
+        "location": "Core Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Core_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Scriptorium Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Scriptorium_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tribunal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tribunal_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Drops from Shavronne of Umbra and her map boss variants."
+  },
+  {
+    "name": "The One With All",
+    "url": "https://pathofexile.gamepedia.com/The_One_With_All",
+    "stack_size": 6,
+    "effect": "Le Heup of AllCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Le_Heup_of_All",
+    "locations": [
+      {
+        "location": "The Tidal Island (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Tidal_Island_(Act_6)"
+      },
+      {
+        "location": "Oba's Cursed Trove (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Oba%27s_Cursed_Trove_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Opulent",
+    "url": "https://pathofexile.gamepedia.com/The_Opulent",
+    "stack_size": 5,
+    "effect": "RingItem Level: 100",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Chateau Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Chateau_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Conservatory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Conservatory_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Crimson Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Crimson_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ivory Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ivory_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Laboratory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Laboratory_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Relic Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Relic_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Residence Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Residence_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaults of Atziri (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaults_of_Atziri_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vault Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vault_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Villa Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Villa_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Pack Leader",
+    "url": "https://pathofexile.gamepedia.com/The_Pack_Leader",
+    "stack_size": 6,
+    "effect": "Alpha's Howl",
+    "effect_url": "https://pathofexile.gamepedia.com/Alpha%27s_Howl",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Pact",
+    "url": "https://pathofexile.gamepedia.com/The_Pact",
+    "stack_size": 9,
+    "effect": "Pledge of Hands",
+    "effect_url": "https://pathofexile.gamepedia.com/Pledge_of_Hands",
+    "locations": [
+      {
+        "location": "The Quay",
+        "location_url": "https://pathofexile.gamepedia.com/The_Quay"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Penitent",
+    "url": "https://pathofexile.gamepedia.com/The_Penitent",
+    "stack_size": 5,
+    "effect": "Unset Ring",
+    "effect_url": "https://pathofexile.gamepedia.com/Unset_Ring",
+    "locations": [
+      {
+        "location": "Cells Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cells_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Poet",
+    "url": "https://pathofexile.gamepedia.com/The_Poet",
+    "stack_size": 9,
+    "effect": "Blood of CorruptionCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Blood_of_Corruption",
+    "locations": [
+      {
+        "location": "The Marketplace",
+        "location_url": "https://pathofexile.gamepedia.com/The_Marketplace"
+      },
+      {
+        "location": "The Quay",
+        "location_url": "https://pathofexile.gamepedia.com/The_Quay"
+      },
+      {
+        "location": "Arcade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arcade_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Polymath",
+    "url": "https://pathofexile.gamepedia.com/The_Polymath",
+    "stack_size": 3,
+    "effect": "Astramentis",
+    "effect_url": "https://pathofexile.gamepedia.com/Astramentis",
+    "locations": [
+      {
+        "location": "The Reliquary (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Reliquary_(Act_5)"
+      },
+      {
+        "location": "The Reliquary (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Reliquary_(Act_10)"
+      },
+      {
+        "location": "Relic Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Relic_Chambers_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Porcupine",
+    "url": "https://pathofexile.gamepedia.com/The_Porcupine",
+    "stack_size": 6,
+    "effect": "Six-Link Short BowItem Level: 50",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The High Gardens",
+        "location_url": "https://pathofexile.gamepedia.com/The_High_Gardens"
+      },
+      {
+        "location": "Gardens Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Gardens_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Plaza Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Plaza_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Terrace Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Terrace_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Price of Protection",
+    "url": "https://pathofexile.gamepedia.com/The_Price_of_Protection",
+    "stack_size": 5,
+    "effect": "Elder Chateau MapMap Tier: 16",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Can only drop from Invasion bosses."
+  },
+  {
+    "name": "The Professor",
+    "url": "https://pathofexile.gamepedia.com/The_Professor",
+    "stack_size": 4,
+    "effect": "The Putrid Cloister",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Putrid_Cloister_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "Laboratory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Laboratory_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Puzzle",
+    "url": "https://pathofexile.gamepedia.com/The_Puzzle",
+    "stack_size": 5,
+    "effect": "5x Breachstone Splinter",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "The Puzzle can drop from Beyond demons."
+  },
+  {
+    "name": "The Queen",
+    "url": "https://pathofexile.gamepedia.com/The_Queen",
+    "stack_size": 16,
+    "effect": "Atziri's Acuity",
+    "effect_url": "https://pathofexile.gamepedia.com/Atziri%27s_Acuity",
+    "locations": [
+      {
+        "location": "Vaults of Atziri (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaults_of_Atziri_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Rabid Rhoa",
+    "url": "https://pathofexile.gamepedia.com/The_Rabid_Rhoa",
+    "stack_size": 4,
+    "effect": "Malicious Gemini ClawItem Level: 83",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Arid Lake Map (pre 2.0)",
+        "location_url": "https://pathofexile.gamepedia.com/Arid_Lake_Map_(pre_2.0)"
+      },
+      {
+        "location": "Arid Lake Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arid_Lake_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "The Rabid Rhoa can only drop from Drought-Maddened Rhoa."
+  },
+  {
+    "name": "The Realm",
+    "url": "https://pathofexile.gamepedia.com/The_Realm",
+    "stack_size": 5,
+    "effect": "Superior Portal",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Breach"
+  },
+  {
+    "name": "The Risk",
+    "url": "https://pathofexile.gamepedia.com/The_Risk",
+    "stack_size": 3,
+    "effect": "Ventor's Gamble",
+    "effect_url": "https://pathofexile.gamepedia.com/Ventor%27s_Gamble",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Rite of Elements",
+    "url": "https://pathofexile.gamepedia.com/The_Rite_of_Elements",
+    "stack_size": 5,
+    "effect": "Level 21 Golem GemCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Courthouse Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courthouse_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Coves Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Coves_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Flooded Mine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Flooded_Mine_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Grotto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Grotto_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vault Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vault_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Waterways Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Waterways_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Wharf Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Wharf_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Road to Power",
+    "url": "https://pathofexile.gamepedia.com/The_Road_to_Power",
+    "stack_size": 7,
+    "effect": "Runic One-Hand WeaponItem Level: 100",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Castle Ruins Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Castle_Ruins_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Ruthless Ceinture",
+    "url": "https://pathofexile.gamepedia.com/The_Ruthless_Ceinture",
+    "stack_size": 7,
+    "effect": "Meginord's GirdleCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Meginord%27s_Girdle",
+    "locations": [
+      {
+        "location": "The Descent",
+        "location_url": "https://pathofexile.gamepedia.com/The_Descent"
+      },
+      {
+        "location": "The Foothills",
+        "location_url": "https://pathofexile.gamepedia.com/The_Foothills"
+      },
+      {
+        "location": "Dig Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dig_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Maze of the Minotaur Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maze_of_the_Minotaur_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Summit Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Summit_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Sacrifice",
+    "url": "https://pathofexile.gamepedia.com/The_Sacrifice",
+    "stack_size": 4,
+    "effect": "Six-Link Sacrificial GarbItem Level: 100",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Saint's Treasure",
+    "url": "https://pathofexile.gamepedia.com/The_Saint%27s_Treasure",
+    "stack_size": 10,
+    "effect": "2x Exalted Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Exalted_Orb",
+    "locations": [
+      {
+        "location": "The Slums",
+        "location_url": "https://pathofexile.gamepedia.com/The_Slums"
+      },
+      {
+        "location": "The Marketplace",
+        "location_url": "https://pathofexile.gamepedia.com/The_Marketplace"
+      },
+      {
+        "location": "The Imperial Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Imperial_Fields"
+      },
+      {
+        "location": "The Grain Gate",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grain_Gate"
+      },
+      {
+        "location": "Arcade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arcade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Arsenal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arsenal_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Bazaar Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bazaar_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ghetto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ghetto_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Precinct Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Precinct_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Samurai's Eye",
+    "url": "https://pathofexile.gamepedia.com/The_Samurai%27s_Eye",
+    "stack_size": 3,
+    "effect": "Watcher's Eye",
+    "effect_url": "https://pathofexile.gamepedia.com/Watcher%27s_Eye",
+    "locations": [],
+    "drop_restrictions": "This item can be acquired from an Abyssal Lich in the Abyssal Depths."
+  },
+  {
+    "name": "The Scarred Meadow",
+    "url": "https://pathofexile.gamepedia.com/The_Scarred_Meadow",
+    "stack_size": 9,
+    "effect": "Wake of Destruction",
+    "effect_url": "https://pathofexile.gamepedia.com/Wake_of_Destruction",
+    "locations": [
+      {
+        "location": "The Old Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Old_Fields"
+      },
+      {
+        "location": "Ashen Wood Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ashen_Wood_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Fields Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Fields_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Peninsula Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Peninsula_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Scavenger",
+    "url": "https://pathofexile.gamepedia.com/The_Scavenger",
+    "stack_size": 8,
+    "effect": "Carcass Jack",
+    "effect_url": "https://pathofexile.gamepedia.com/Carcass_Jack",
+    "locations": [
+      {
+        "location": "The Aqueduct",
+        "location_url": "https://pathofexile.gamepedia.com/The_Aqueduct"
+      },
+      {
+        "location": "Channel Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Channel_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ghetto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ghetto_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground River Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_River_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "The Hundred Foot Shadow, The Winged Death, Hephaeus, The Hammer, It That Fell"
+  },
+  {
+    "name": "The Scholar",
+    "url": "https://pathofexile.gamepedia.com/The_Scholar",
+    "stack_size": 3,
+    "effect": "40x Scroll of Wisdom",
+    "effect_url": "https://pathofexile.gamepedia.com/Scroll_of_Wisdom",
+    "locations": [
+      {
+        "location": "The Library",
+        "location_url": "https://pathofexile.gamepedia.com/The_Library"
+      },
+      {
+        "location": "The Archives",
+        "location_url": "https://pathofexile.gamepedia.com/The_Archives"
+      },
+      {
+        "location": "Academy Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Academy_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Museum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Museum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Scriptorium Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Scriptorium_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Sephirot",
+    "url": "https://pathofexile.gamepedia.com/The_Sephirot",
+    "stack_size": 11,
+    "effect": "10x Divine Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Divine_Orb",
+    "locations": [
+      {
+        "location": "The Upper Sceptre of God",
+        "location_url": "https://pathofexile.gamepedia.com/The_Upper_Sceptre_of_God"
+      },
+      {
+        "location": "Palace Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Palace_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "Dominus or corresponding bosses"
+  },
+  {
+    "name": "The Sigil",
+    "url": "https://pathofexile.gamepedia.com/The_Sigil",
+    "stack_size": 3,
+    "effect": "Unassailable Amulet",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Overgrown Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Siren",
+    "url": "https://pathofexile.gamepedia.com/The_Siren",
+    "stack_size": 7,
+    "effect": "The Whispering IceCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Whispering_Ice",
+    "locations": [
+      {
+        "location": "The Cavern of Anger (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Cavern_of_Anger_(Act_6)"
+      },
+      {
+        "location": "The Brine King's Reef",
+        "location_url": "https://pathofexile.gamepedia.com/The_Brine_King%27s_Reef"
+      },
+      {
+        "location": "Maelström of Chaos (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Soul",
+    "url": "https://pathofexile.gamepedia.com/The_Soul",
+    "stack_size": 9,
+    "effect": "Soul Taker",
+    "effect_url": "https://pathofexile.gamepedia.com/Soul_Taker",
+    "locations": [
+      {
+        "location": "Overgrown Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Shrine_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sepulchre Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sepulchre_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tribunal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tribunal_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Spark and the Flame",
+    "url": "https://pathofexile.gamepedia.com/The_Spark_and_the_Flame",
+    "stack_size": 2,
+    "effect": "Berek's Respite",
+    "effect_url": "https://pathofexile.gamepedia.com/Berek%27s_Respite",
+    "locations": [
+      {
+        "location": "Atoll Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Atoll_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Maelström of Chaos (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Spoiled Prince",
+    "url": "https://pathofexile.gamepedia.com/The_Spoiled_Prince",
+    "stack_size": 4,
+    "effect": "Dictator's Prophecy WandItem Level: 100",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Vaal Pyramid Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Pyramid_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Standoff",
+    "url": "https://pathofexile.gamepedia.com/The_Standoff",
+    "stack_size": 3,
+    "effect": "Rustic Sash",
+    "effect_url": "https://pathofexile.gamepedia.com/Rustic_Sash",
+    "locations": [
+      {
+        "location": "The Torched Courts (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Torched_Courts_(Act_5)"
+      },
+      {
+        "location": "The Torched Courts (Act 10)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Torched_Courts_(Act_10)"
+      },
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lava Chamber Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lava_Chamber_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Forge of the Phoenix Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Forge_of_the_Phoenix_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Stormcaller",
+    "url": "https://pathofexile.gamepedia.com/The_Stormcaller",
+    "stack_size": 4,
+    "effect": "Agnerod Staff",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Summoner",
+    "url": "https://pathofexile.gamepedia.com/The_Summoner",
+    "stack_size": 6,
+    "effect": "Superior Minion GemQuality: +20%",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Fetid Pool",
+        "location_url": "https://pathofexile.gamepedia.com/The_Fetid_Pool"
+      },
+      {
+        "location": "The Lower Prison (Act 1)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lower_Prison_(Act_1)"
+      },
+      {
+        "location": "The Upper Prison",
+        "location_url": "https://pathofexile.gamepedia.com/The_Upper_Prison"
+      },
+      {
+        "location": "The Crypt Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crypt_Level_2"
+      },
+      {
+        "location": "The Chamber of Sins Level 1 (Act 2)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_1_(Act_2)"
+      },
+      {
+        "location": "The Chamber of Sins Level 2 (Act 2)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_2_(Act_2)"
+      },
+      {
+        "location": "The Catacombs",
+        "location_url": "https://pathofexile.gamepedia.com/The_Catacombs"
+      },
+      {
+        "location": "Shavronne's Tower",
+        "location_url": "https://pathofexile.gamepedia.com/Shavronne%27s_Tower"
+      },
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Cells Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cells_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Cursed Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cursed_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dungeon Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dungeon_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Sun",
+    "url": "https://pathofexile.gamepedia.com/The_Sun",
+    "stack_size": 7,
+    "effect": "Rise of the Phoenix",
+    "effect_url": "https://pathofexile.gamepedia.com/Rise_of_the_Phoenix",
+    "locations": [
+      {
+        "location": "The Solaris Temple Level 1 (Act 3)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Solaris_Temple_Level_1_(Act_3)"
+      },
+      {
+        "location": "The Solaris Temple Level 2 (Act 3)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Solaris_Temple_Level_2_(Act_3)"
+      },
+      {
+        "location": "The Solaris Temple Level 1 (Act 8)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Solaris_Temple_Level_1_(Act_8)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Surgeon",
+    "url": "https://pathofexile.gamepedia.com/The_Surgeon",
+    "stack_size": 4,
+    "effect": "Surgeon's Flask",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Chamber of Sins Level 1 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_1_(Act_7)"
+      },
+      {
+        "location": "The Chamber of Sins Level 2 (Act 7)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Chamber_of_Sins_Level_2_(Act_7)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Overgrown Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Surveyor",
+    "url": "https://pathofexile.gamepedia.com/The_Surveyor",
+    "stack_size": 4,
+    "effect": "MapMap Tier: 14",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Core Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Core_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Malformation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Malformation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Phantasmagoria Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Phantasmagoria_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Survivalist",
+    "url": "https://pathofexile.gamepedia.com/The_Survivalist",
+    "stack_size": 3,
+    "effect": "7x Orb of Alchemy",
+    "effect_url": "https://pathofexile.gamepedia.com/Orb_of_Alchemy",
+    "locations": [
+      {
+        "location": "The Wetlands (Act 2)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Wetlands_(Act_2)"
+      },
+      {
+        "location": "Mineral Pools Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mineral_Pools_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Sword King's Salute",
+    "url": "https://pathofexile.gamepedia.com/The_Sword_King%27s_Salute",
+    "stack_size": 7,
+    "effect": "Daresso's Salute",
+    "effect_url": "https://pathofexile.gamepedia.com/Daresso%27s_Salute",
+    "locations": [
+      {
+        "location": "Colosseum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colosseum_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Thaumaturgist",
+    "url": "https://pathofexile.gamepedia.com/The_Thaumaturgist",
+    "stack_size": 8,
+    "effect": "Shavronne's RevelationCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Shavronne%27s_Revelation",
+    "locations": [
+      {
+        "location": "Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Throne",
+    "url": "https://pathofexile.gamepedia.com/The_Throne",
+    "stack_size": 2,
+    "effect": "Kaom's RootsCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Kaom%27s_Roots",
+    "locations": [
+      {
+        "location": "Lair of the Hydra Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_of_the_Hydra_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Toxic Sewer Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Toxic_Sewer_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Waste Pool Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Waste_Pool_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Tower",
+    "url": "https://pathofexile.gamepedia.com/The_Tower",
+    "stack_size": 6,
+    "effect": "Staff",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Sceptre of God",
+        "location_url": "https://pathofexile.gamepedia.com/The_Sceptre_of_God"
+      },
+      {
+        "location": "The Upper Sceptre of God",
+        "location_url": "https://pathofexile.gamepedia.com/The_Upper_Sceptre_of_God"
+      },
+      {
+        "location": "Residence Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Residence_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Traitor",
+    "url": "https://pathofexile.gamepedia.com/The_Traitor",
+    "stack_size": 4,
+    "effect": "WandCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Battlefront",
+        "location_url": "https://pathofexile.gamepedia.com/The_Battlefront"
+      },
+      {
+        "location": "The Sarn Ramparts",
+        "location_url": "https://pathofexile.gamepedia.com/The_Sarn_Ramparts"
+      },
+      {
+        "location": "Promenade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Promenade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ramparts Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ramparts_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Trial",
+    "url": "https://pathofexile.gamepedia.com/The_Trial",
+    "stack_size": 7,
+    "effect": "MapMap Tier: 15Corrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Arachnid Nest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arachnid_Nest_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Arachnid Tomb Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arachnid_Tomb_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Arena Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arena_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Armoury Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Armoury_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Bazaar Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bazaar_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Belfry Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Belfry_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Bog Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bog_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Colonnade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colonnade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Coral Ruins Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Coral_Ruins_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Courtyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courtyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Coves Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Coves_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Cursed Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cursed_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dunes Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dunes_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Estuary Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Estuary_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Factory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Factory_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Gardens Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Gardens_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Geode Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Geode_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Beachhead (Mid Tier) (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Beachhead_(Mid_Tier)_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Infested Valley Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Infested_Valley_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Laboratory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Laboratory_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lair Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lava Chamber Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lava_Chamber_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mausoleum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mausoleum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mesa Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mesa_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mineral Pools Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mineral_Pools_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Moon Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Moon_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Mud Geyser Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Mud_Geyser_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Museum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Museum_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Putrid Cloister (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Putrid_Cloister_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Orchard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Orchard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Pier Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pier_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Pit Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pit_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Plateau Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Plateau_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Precinct Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Precinct_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Primordial Pool Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Primordial_Pool_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Promenade Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Promenade_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Ramparts Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ramparts_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Residence Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Residence_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Scriptorium Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Scriptorium_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Sepulchre Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Sepulchre_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Shipyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shipyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Shore Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shore_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Siege Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Siege_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Spider Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Spider_Forest_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tribunal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tribunal_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tropical Island Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tropical_Island_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground River Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_River_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Caer Blaidd, Wolfpack's Den (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Caer_Blaidd,_Wolfpack%27s_Den_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Pyramid Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Pyramid_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vault Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vault_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Wasteland Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Wasteland_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Waste Pool Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Waste_Pool_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Waterways Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Waterways_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Twilight Moon",
+    "url": "https://pathofexile.gamepedia.com/The_Twilight_Moon",
+    "stack_size": 6,
+    "effect": "The Twilight Temple",
+    "effect_url": "https://pathofexile.gamepedia.com/The_Twilight_Temple_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "Moon Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Moon_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Twins",
+    "url": "https://pathofexile.gamepedia.com/The_Twins",
+    "stack_size": 8,
+    "effect": "Gemini Claw of CelebrationItem Level: 83",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Ivory Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Ivory_Temple_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Moon Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Moon_Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Tyrant",
+    "url": "https://pathofexile.gamepedia.com/The_Tyrant",
+    "stack_size": 9,
+    "effect": "Merciless WeaponItem Level: 100",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Undaunted",
+    "url": "https://pathofexile.gamepedia.com/The_Undaunted",
+    "stack_size": 5,
+    "effect": "Nemesis ItemCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Basilica Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Basilica_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Courthouse Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courthouse_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Precinct Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Precinct_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Undisputed",
+    "url": "https://pathofexile.gamepedia.com/The_Undisputed",
+    "stack_size": 8,
+    "effect": "Merciless Vaal AxeItem Level: 100Elder Item",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "This item can be acquired from Chayula, Who Dreamt"
+  },
+  {
+    "name": "The Union",
+    "url": "https://pathofexile.gamepedia.com/The_Union",
+    "stack_size": 7,
+    "effect": "10x Gemcutter's Prism",
+    "effect_url": "https://pathofexile.gamepedia.com/Gemcutter%27s_Prism",
+    "locations": [
+      {
+        "location": "Cemetery Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cemetery_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Graveyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Graveyard_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Valkyrie",
+    "url": "https://pathofexile.gamepedia.com/The_Valkyrie",
+    "stack_size": 8,
+    "effect": "Nemesis Item",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Valley of Steel Boxes",
+    "url": "https://pathofexile.gamepedia.com/The_Valley_of_Steel_Boxes",
+    "stack_size": 9,
+    "effect": "Monstrous Treasure",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "Strongbox"
+  },
+  {
+    "name": "The Vast",
+    "url": "https://pathofexile.gamepedia.com/The_Vast",
+    "stack_size": 7,
+    "effect": "Song of the Sirens",
+    "effect_url": "https://pathofexile.gamepedia.com/Song_of_the_Sirens",
+    "locations": [
+      {
+        "location": "Coral Ruins Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Coral_Ruins_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Visionary",
+    "url": "https://pathofexile.gamepedia.com/The_Visionary",
+    "stack_size": 6,
+    "effect": "Lioneye's Vision",
+    "effect_url": "https://pathofexile.gamepedia.com/Lioneye%27s_Vision",
+    "locations": [
+      {
+        "location": "The Grand Arena",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grand_Arena"
+      },
+      {
+        "location": "Colosseum Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Colosseum_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Void",
+    "url": "https://pathofexile.gamepedia.com/The_Void",
+    "stack_size": 1,
+    "effect": "N/A",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Warden",
+    "url": "https://pathofexile.gamepedia.com/The_Warden",
+    "stack_size": 4,
+    "effect": "AmuletCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Lower Prison (Act 1)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lower_Prison_(Act_1)"
+      },
+      {
+        "location": "The Upper Prison",
+        "location_url": "https://pathofexile.gamepedia.com/The_Upper_Prison"
+      },
+      {
+        "location": "The Slave Pens",
+        "location_url": "https://pathofexile.gamepedia.com/The_Slave_Pens"
+      },
+      {
+        "location": "The Lower Prison (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lower_Prison_(Act_6)"
+      },
+      {
+        "location": "Shavronne's Tower",
+        "location_url": "https://pathofexile.gamepedia.com/Shavronne%27s_Tower"
+      },
+      {
+        "location": "Cage Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cage_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dungeon Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dungeon_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Pen Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Pen_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Warlord",
+    "url": "https://pathofexile.gamepedia.com/The_Warlord",
+    "stack_size": 6,
+    "effect": "Six-Link Coronal MaulItem Level: 83",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Arsenal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arsenal_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Watcher",
+    "url": "https://pathofexile.gamepedia.com/The_Watcher",
+    "stack_size": 12,
+    "effect": "Crown of Eyes",
+    "effect_url": "https://pathofexile.gamepedia.com/Crown_of_Eyes",
+    "locations": [
+      {
+        "location": "Grotto Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Grotto_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Web",
+    "url": "https://pathofexile.gamepedia.com/The_Web",
+    "stack_size": 8,
+    "effect": "Weapon of Crafting",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "The Weaver's Chambers",
+        "location_url": "https://pathofexile.gamepedia.com/The_Weaver%27s_Chambers"
+      },
+      {
+        "location": "Arachnid Nest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arachnid_Nest_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Arachnid Tomb Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arachnid_Tomb_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Spider Lair Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Spider_Lair_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wilted Rose",
+    "url": "https://pathofexile.gamepedia.com/The_Wilted_Rose",
+    "stack_size": 7,
+    "effect": "Level 21 Aura GemCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Acton's Nightmare (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Acton%27s_Nightmare_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wind",
+    "url": "https://pathofexile.gamepedia.com/The_Wind",
+    "stack_size": 7,
+    "effect": "Windripper",
+    "effect_url": "https://pathofexile.gamepedia.com/Windripper",
+    "locations": [
+      {
+        "location": "Atoll Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Atoll_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Jungle Valley Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Jungle_Valley_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Witch",
+    "url": "https://pathofexile.gamepedia.com/The_Witch",
+    "stack_size": 8,
+    "effect": "Kiara's Determination",
+    "effect_url": "https://pathofexile.gamepedia.com/Kiara%27s_Determination",
+    "locations": [
+      {
+        "location": "Burial Chambers Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Burial_Chambers_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Spider Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Spider_Forest_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wolf",
+    "url": "https://pathofexile.gamepedia.com/The_Wolf",
+    "stack_size": 5,
+    "effect": "Rigwald Item",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Flooded Mine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Flooded_Mine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wolf's Shadow",
+    "url": "https://pathofexile.gamepedia.com/The_Wolf%27s_Shadow",
+    "stack_size": 3,
+    "effect": "Hyaon's Fury",
+    "effect_url": "https://pathofexile.gamepedia.com/Hyaon%27s_Fury",
+    "locations": [
+      {
+        "location": "Lair Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Underground River Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_River_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Caer Blaidd, Wolfpack's Den (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Caer_Blaidd,_Wolfpack%27s_Den_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wolven King's Bite",
+    "url": "https://pathofexile.gamepedia.com/The_Wolven_King%27s_Bite",
+    "stack_size": 8,
+    "effect": "Rigwald's Quills",
+    "effect_url": "https://pathofexile.gamepedia.com/Rigwald%27s_Quills",
+    "locations": [
+      {
+        "location": "Dark Forest Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dark_Forest_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lair Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lair_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wolverine",
+    "url": "https://pathofexile.gamepedia.com/The_Wolverine",
+    "stack_size": 4,
+    "effect": "ClawCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "Prisoner's Gate (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/Prisoner%27s_Gate_(Act_6)"
+      },
+      {
+        "location": "Gorge Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Gorge_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Summit Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Summit_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The World Eater",
+    "url": "https://pathofexile.gamepedia.com/The_World_Eater",
+    "stack_size": 8,
+    "effect": "Starforge",
+    "effect_url": "https://pathofexile.gamepedia.com/Starforge",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wrath",
+    "url": "https://pathofexile.gamepedia.com/The_Wrath",
+    "stack_size": 8,
+    "effect": "10x Chaos Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Chaos_Orb",
+    "locations": [
+      {
+        "location": "The Cathedral Rooftop (Act 5)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Cathedral_Rooftop_(Act_5)"
+      },
+      {
+        "location": "The Canals",
+        "location_url": "https://pathofexile.gamepedia.com/The_Canals"
+      },
+      {
+        "location": "The Feeding Trough",
+        "location_url": "https://pathofexile.gamepedia.com/The_Feeding_Trough"
+      },
+      {
+        "location": "The Cavern of Anger (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Cavern_of_Anger_(Act_6)"
+      },
+      {
+        "location": "Belfry Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Belfry_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Lava Lake Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Lava_Lake_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "The Wretched",
+    "url": "https://pathofexile.gamepedia.com/The_Wretched",
+    "stack_size": 6,
+    "effect": "Belt",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "Bone Crypt Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Cells Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Cells_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "The Coward's Trial (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Coward%27s_Trial_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Dungeon Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Dungeon_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Necropolis Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Necropolis_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Overgrown Ruin Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Acton's Nightmare (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Acton%27s_Nightmare_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Forge of the Phoenix Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Forge_of_the_Phoenix_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Torture Chamber Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Torture_Chamber_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Three Faces in the Dark",
+    "url": "https://pathofexile.gamepedia.com/Three_Faces_in_the_Dark",
+    "stack_size": 7,
+    "effect": "3x Chaos Orb",
+    "effect_url": "https://pathofexile.gamepedia.com/Chaos_Orb",
+    "locations": [
+      {
+        "location": "The Marketplace",
+        "location_url": "https://pathofexile.gamepedia.com/The_Marketplace"
+      },
+      {
+        "location": "The Imperial Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Imperial_Fields"
+      },
+      {
+        "location": "The Grain Gate",
+        "location_url": "https://pathofexile.gamepedia.com/The_Grain_Gate"
+      },
+      {
+        "location": "The Refinery",
+        "location_url": "https://pathofexile.gamepedia.com/The_Refinery"
+      },
+      {
+        "location": "Arsenal Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Arsenal_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Factory Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Factory_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Three Voices",
+    "url": "https://pathofexile.gamepedia.com/Three_Voices",
+    "stack_size": 3,
+    "effect": "3x Essence",
+    "effect_url": "",
+    "locations": [
+      {
+        "location": "City Square Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/City_Square_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Courthouse Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courthouse_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Courtyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courtyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Crystal Ore Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Crystal_Ore_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Graveyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Graveyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Racecourse Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Racecourse_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Pyramid Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Pyramid_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Vaal Temple Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Vaal_Temple_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "This item can be acquired in maps that have 3 bosses."
+  },
+  {
+    "name": "Thunderous Skies",
+    "url": "https://pathofexile.gamepedia.com/Thunderous_Skies",
+    "stack_size": 5,
+    "effect": "Storm Cloud",
+    "effect_url": "https://pathofexile.gamepedia.com/Storm_Cloud",
+    "locations": [
+      {
+        "location": "The Twilight Strand (Act 6)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Twilight_Strand_(Act_6)"
+      },
+      {
+        "location": "Shavronne's Tower",
+        "location_url": "https://pathofexile.gamepedia.com/Shavronne%27s_Tower"
+      },
+      {
+        "location": "Courtyard Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Courtyard_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Strand Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Strand_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Tower Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Time-Lost Relic",
+    "url": "https://pathofexile.gamepedia.com/Time-Lost_Relic",
+    "stack_size": 10,
+    "effect": "League-Specific Item",
+    "effect_url": "",
+    "locations": [],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Tranquillity",
+    "url": "https://pathofexile.gamepedia.com/Tranquillity",
+    "stack_size": 7,
+    "effect": "Voltaxic Rift",
+    "effect_url": "https://pathofexile.gamepedia.com/Voltaxic_Rift",
+    "locations": [
+      {
+        "location": "The Ashen Fields",
+        "location_url": "https://pathofexile.gamepedia.com/The_Ashen_Fields"
+      },
+      {
+        "location": "Fields Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Fields_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Treasure Hunter",
+    "url": "https://pathofexile.gamepedia.com/Treasure_Hunter",
+    "stack_size": 7,
+    "effect": "Vaults of AtziriCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Vaults_of_Atziri_(War_for_the_Atlas)",
+    "locations": [
+      {
+        "location": "Underground Sea Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Turn the Other Cheek",
+    "url": "https://pathofexile.gamepedia.com/Turn_the_Other_Cheek",
+    "stack_size": 3,
+    "effect": "PacifismCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Pacifism",
+    "locations": [
+      {
+        "location": "The Library",
+        "location_url": "https://pathofexile.gamepedia.com/The_Library"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Vinia's Token",
+    "url": "https://pathofexile.gamepedia.com/Vinia%27s_Token",
+    "stack_size": 5,
+    "effect": "10x Orb of Regret",
+    "effect_url": "https://pathofexile.gamepedia.com/Orb_of_Regret",
+    "locations": [
+      {
+        "location": "The Lunaris Temple Level 2 (Act 3)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lunaris_Temple_Level_2_(Act_3)"
+      },
+      {
+        "location": "The Crematorium",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crematorium"
+      },
+      {
+        "location": "Overgrown Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Overgrown_Shrine_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Shrine Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Shrine_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Volatile Power",
+    "url": "https://pathofexile.gamepedia.com/Volatile_Power",
+    "stack_size": 9,
+    "effect": "Superior Vaal GemQuality: +20%Corrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Mines Level 1",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mines_Level_1"
+      },
+      {
+        "location": "The Mines Level 2",
+        "location_url": "https://pathofexile.gamepedia.com/The_Mines_Level_2"
+      },
+      {
+        "location": "The Crystal Veins",
+        "location_url": "https://pathofexile.gamepedia.com/The_Crystal_Veins"
+      },
+      {
+        "location": "The Tunnel",
+        "location_url": "https://pathofexile.gamepedia.com/The_Tunnel"
+      },
+      {
+        "location": "Crystal Ore Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Crystal_Ore_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Excavation Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Excavation_Map_(War_for_the_Atlas)"
+      },
+      {
+        "location": "Geode Map (War for the Atlas)",
+        "location_url": "https://pathofexile.gamepedia.com/Geode_Map_(War_for_the_Atlas)"
+      }
+    ],
+    "drop_restrictions": "N/A"
+  },
+  {
+    "name": "Wealth and Power",
+    "url": "https://pathofexile.gamepedia.com/Wealth_and_Power",
+    "stack_size": 11,
+    "effect": "Level 4 EnlightenCorrupted",
+    "effect_url": "https://pathofexile.gamepedia.com/Corrupted",
+    "locations": [
+      {
+        "location": "The Lunaris Temple Level 2 (Act 8)",
+        "location_url": "https://pathofexile.gamepedia.com/The_Lunaris_Temple_Level_2_(Act_8)"
+      }
+    ],
+    "drop_restrictions": "Dusk, Harbinger of Lunaris"
+  }
+]
